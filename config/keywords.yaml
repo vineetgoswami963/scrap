@@ -1,0 +1,18 @@
+# A posting matches if its title contains ANY of these (case-insensitive).
+# Edit freely.
+keywords:
+  - "software engineer"
+  - "swe"
+  - "full stack"
+  - "fullstack"
+  - "full-stack"
+  - "backend engineer"
+  - "back-end engineer"
+  - "ai engineer"
+  - "machine learning engineer"
+  - "ml engineer"
+  - "artificial intelligence"
+  - "applied scientist"
+  - "llm"
+  - "genai"
+  - "generative ai"

@@ -1,0 +1,23 @@
+# Postings whose title contains any of these words (whole-word match,
+# case-insensitive) are dropped as too senior. Edit freely — e.g. add
+# "manager" variants, or remove "iii"/"iv" if you don't want those excluded.
+#
+# Note: this can't detect exact years-of-experience — titles rarely state
+# it. A plain "Software Engineer" with no level word will still pass
+# through, since there's no way to tell from the title alone whether the
+# company means 0-2 years or 3-5. This just strips out the obviously senior
+# ones.
+exclude_terms:
+  - "senior"
+  - "sr"
+  - "staff"
+  - "principal"
+  - "lead"
+  - "director"
+  - "head of"
+  - "vp"
+  - "vice president"
+  - "architect"
+  - "manager"
+  - "iii"
+  - "iv"

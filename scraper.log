@@ -1,0 +1,1402 @@
+2026-08-29 02:49:49,740 [INFO] Google: 0 matching posting(s) found
+2026-08-29 02:49:51,577 [INFO] Microsoft: 0 matching posting(s) found
+2026-08-29 02:49:54,232 [INFO] Amazon: 0 matching posting(s) found
+2026-08-29 02:49:57,577 [INFO] Apple: 1 matching posting(s) found
+2026-08-29 02:49:59,729 [INFO] Meta: 0 matching posting(s) found
+2026-08-29 02:50:01,941 [INFO] Netflix: 0 matching posting(s) found
+2026-08-29 02:50:03,277 [INFO] Oracle: 0 matching posting(s) found
+2026-08-29 02:50:06,789 [INFO] SAP: 0 matching posting(s) found
+2026-08-29 02:50:08,319 [INFO] IBM: 0 matching posting(s) found
+2026-08-29 02:50:11,563 [INFO] Salesforce: 0 matching posting(s) found
+2026-08-29 02:50:13,891 [INFO] Adobe: 0 matching posting(s) found
+2026-08-29 02:50:16,664 [INFO] Cisco: 0 matching posting(s) found
+2026-08-29 02:50:17,792 [INFO] VMware (Broadcom): 0 matching posting(s) found
+2026-08-29 02:50:19,212 [INFO] ServiceNow: 0 matching posting(s) found
+2026-08-29 02:50:21,571 [INFO] Workday: 0 matching posting(s) found
+2026-08-29 02:50:23,809 [INFO] Intuit: 1 matching posting(s) found
+2026-08-29 02:50:25,331 [INFO] PayPal: 0 matching posting(s) found
+2026-08-29 02:50:26,770 [INFO] Block: 0 matching posting(s) found
+2026-08-29 02:50:28,119 [INFO] Snap Inc: 1 matching posting(s) found
+2026-08-29 02:50:29,779 [INFO] LinkedIn: 0 matching posting(s) found
+2026-08-29 02:50:31,532 [INFO] X (Twitter): 0 matching posting(s) found
+2026-08-29 02:50:33,923 [INFO] Zoom: 0 matching posting(s) found
+2026-08-29 02:50:35,430 [INFO] Atlassian: 0 matching posting(s) found
+2026-08-29 02:50:38,030 [INFO] Slack: 1 matching posting(s) found
+2026-08-29 02:50:39,687 [INFO] Anthropic: 91 matching posting(s) found
+2026-08-29 02:50:40,916 [INFO] OpenAI: 0 matching posting(s) found
+2026-08-29 02:50:42,295 [INFO] Scale AI: 1 matching posting(s) found
+2026-08-29 02:50:44,376 [INFO] Hugging Face: 0 matching posting(s) found
+2026-08-29 02:50:46,773 [INFO] Cohere: 2 matching posting(s) found
+2026-08-29 02:50:49,052 [INFO] Mistral AI: 0 matching posting(s) found
+2026-08-29 02:50:50,453 [INFO] Perplexity AI: 0 matching posting(s) found
+2026-08-29 02:50:52,288 [INFO] Runway: 0 matching posting(s) found
+2026-08-29 02:50:53,890 [INFO] Character.AI: 0 matching posting(s) found
+2026-08-29 02:50:55,343 [INFO] Together AI: 3 matching posting(s) found
+2026-08-29 02:50:59,013 [INFO] Weights & Biases: 8 matching posting(s) found
+2026-08-29 02:51:01,111 [INFO] Pinecone: 5 matching posting(s) found
+2026-08-29 02:51:03,273 [INFO] Modal: 0 matching posting(s) found
+2026-08-29 02:51:05,038 [INFO] LangChain: 1 matching posting(s) found
+2026-08-29 02:51:06,477 [INFO] Replit: 0 matching posting(s) found
+2026-08-29 02:51:08,032 [INFO] Supabase: 2 matching posting(s) found
+2026-08-29 02:51:10,321 [INFO] Neon: 1 matching posting(s) found
+2026-08-29 02:51:12,701 [INFO] PlanetScale: 5 matching posting(s) found
+2026-08-29 02:51:16,046 [INFO] Stripe: 71 matching posting(s) found
+2026-08-29 02:51:17,655 [INFO] Coinbase: 52 matching posting(s) found
+2026-08-29 02:51:19,182 [INFO] Robinhood: 34 matching posting(s) found
+2026-08-29 02:51:20,694 [WARNING] Failed scraping Plaid (https://boards.greenhouse.io/plaid): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/plaid/jobs?content=false
+2026-08-29 02:51:20,694 [INFO] Plaid: 0 matching posting(s) found
+2026-08-29 02:51:22,222 [INFO] Brex: 43 matching posting(s) found
+2026-08-29 02:51:23,733 [WARNING] Failed scraping Ramp (https://boards.greenhouse.io/ramp): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/ramp/jobs?content=false
+2026-08-29 02:51:23,733 [INFO] Ramp: 0 matching posting(s) found
+2026-08-29 02:51:25,252 [INFO] Chime: 19 matching posting(s) found
+2026-08-29 02:51:26,853 [INFO] Affirm: 117 matching posting(s) found
+2026-08-29 02:51:28,450 [INFO] Carta: 3 matching posting(s) found
+2026-08-29 02:51:29,972 [INFO] Gusto: 25 matching posting(s) found
+2026-08-29 02:51:31,859 [INFO] Remote: 0 matching posting(s) found
+2026-08-29 02:51:33,615 [INFO] Deel: 0 matching posting(s) found
+2026-08-29 02:51:35,197 [INFO] Rippling: 0 matching posting(s) found
+2026-08-29 02:51:36,429 [INFO] Kraken: 0 matching posting(s) found
+2026-08-29 02:51:37,729 [INFO] Gemini: 0 matching posting(s) found
+2026-08-29 02:51:41,331 [INFO] Circle: 0 matching posting(s) found
+2026-08-29 02:51:43,448 [INFO] Ripple: 0 matching posting(s) found
+2026-08-29 02:51:44,940 [INFO] Visa: 0 matching posting(s) found
+2026-08-29 02:51:47,112 [INFO] Mastercard: 0 matching posting(s) found
+2026-08-29 02:51:48,736 [INFO] American Express: 0 matching posting(s) found
+2026-08-29 02:51:49,996 [INFO] Goldman Sachs: 0 matching posting(s) found
+2026-08-29 02:51:51,414 [INFO] JPMorgan Chase: 0 matching posting(s) found
+2026-08-29 02:52:07,789 [INFO] Morgan Stanley: 0 matching posting(s) found
+2026-08-29 02:52:09,155 [INFO] Capital One: 0 matching posting(s) found
+2026-08-29 02:52:11,658 [INFO] Bloomberg: 0 matching posting(s) found
+2026-08-29 02:52:13,275 [INFO] Cloudflare: 31 matching posting(s) found
+2026-08-29 02:52:20,456 [INFO] Vercel: 17 matching posting(s) found
+2026-08-29 02:52:21,962 [INFO] Twilio: 30 matching posting(s) found
+2026-08-29 02:52:23,586 [INFO] Datadog: 36 matching posting(s) found
+2026-08-29 02:52:25,080 [WARNING] Failed scraping Snowflake (https://boards.greenhouse.io/snowflake): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/snowflake/jobs?content=false
+2026-08-29 02:52:25,080 [INFO] Snowflake: 0 matching posting(s) found
+2026-08-29 02:52:26,784 [INFO] Databricks: 191 matching posting(s) found
+2026-08-29 02:52:28,306 [INFO] GitLab: 49 matching posting(s) found
+2026-08-29 02:52:32,134 [INFO] MongoDB: 1 matching posting(s) found
+2026-08-29 02:52:34,024 [INFO] Elastic: 2 matching posting(s) found
+2026-08-29 02:52:35,439 [INFO] Confluent: 0 matching posting(s) found
+2026-08-29 02:52:37,024 [INFO] Docker: 1 matching posting(s) found
+2026-08-29 02:52:38,551 [INFO] HashiCorp: 0 matching posting(s) found
+2026-08-29 02:52:39,994 [INFO] JetBrains: 0 matching posting(s) found
+2026-08-29 02:52:45,962 [INFO] GitHub: 0 matching posting(s) found
+2026-08-29 02:52:47,544 [INFO] Red Hat: 1 matching posting(s) found
+2026-08-29 02:52:50,030 [INFO] Canonical: 1 matching posting(s) found
+2026-08-29 02:52:53,948 [INFO] Postman: 2 matching posting(s) found
+2026-08-29 02:52:55,603 [INFO] BrowserStack: 0 matching posting(s) found
+2026-08-29 02:52:58,270 [INFO] Sentry: 18 matching posting(s) found
+2026-08-29 02:53:00,339 [INFO] Grafana Labs: 0 matching posting(s) found
+2026-08-29 02:53:02,270 [INFO] LaunchDarkly: 2 matching posting(s) found
+2026-08-29 02:53:04,401 [INFO] Render: 11 matching posting(s) found
+2026-08-29 02:53:07,251 [INFO] Fly.io: 0 matching posting(s) found
+2026-08-29 02:53:09,541 [INFO] Cockroach Labs: 0 matching posting(s) found
+2026-08-29 02:53:11,396 [INFO] Redis: 1 matching posting(s) found
+2026-08-29 02:53:13,925 [INFO] Temporal: 16 matching posting(s) found
+2026-08-29 02:53:15,597 [INFO] Neo4j: 8 matching posting(s) found
+2026-08-29 02:53:16,863 [INFO] Couchbase: 0 matching posting(s) found
+2026-08-29 02:53:19,157 [INFO] DigitalOcean: 0 matching posting(s) found
+2026-08-29 02:53:20,386 [INFO] Akamai: 0 matching posting(s) found
+2026-08-29 02:53:22,372 [INFO] Fastly: 2 matching posting(s) found
+2026-08-29 02:53:24,977 [INFO] Equinix: 2 matching posting(s) found
+2026-08-29 02:53:26,836 [INFO] Notion: 16 matching posting(s) found
+2026-08-29 02:53:28,373 [INFO] Figma: 26 matching posting(s) found
+2026-08-29 02:53:29,896 [INFO] Airtable: 3 matching posting(s) found
+2026-08-29 02:53:32,643 [INFO] Miro: 0 matching posting(s) found
+2026-08-29 02:53:33,975 [INFO] Canva: 0 matching posting(s) found
+2026-08-29 02:53:35,649 [INFO] Asana: 0 matching posting(s) found
+2026-08-29 02:53:38,998 [INFO] Monday.com: 0 matching posting(s) found
+2026-08-29 02:53:40,770 [INFO] ClickUp: 0 matching posting(s) found
+2026-08-29 02:53:44,986 [INFO] Coda: 0 matching posting(s) found
+2026-08-29 02:53:46,536 [INFO] Webflow: 3 matching posting(s) found
+2026-08-29 02:53:48,057 [WARNING] Failed scraping Retool (https://boards.greenhouse.io/retool): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/retool/jobs?content=false
+2026-08-29 02:53:48,057 [INFO] Retool: 0 matching posting(s) found
+2026-08-29 02:53:49,930 [INFO] Linear: 1 matching posting(s) found
+2026-08-29 02:53:51,413 [INFO] Dropbox: 5 matching posting(s) found
+2026-08-29 02:53:52,694 [INFO] Box: 0 matching posting(s) found
+2026-08-29 02:53:55,239 [INFO] Grammarly: 0 matching posting(s) found
+2026-08-29 02:53:57,368 [INFO] Calendly: 4 matching posting(s) found
+2026-08-29 02:53:59,393 [INFO] Typeform: 2 matching posting(s) found
+2026-08-29 02:54:01,214 [INFO] Zapier: 2 matching posting(s) found
+2026-08-29 02:54:02,628 [INFO] HubSpot: 1 matching posting(s) found
+2026-08-29 02:54:05,934 [INFO] Zendesk: 1 matching posting(s) found
+2026-08-29 02:54:08,539 [INFO] Amplitude: 0 matching posting(s) found
+2026-08-29 02:54:11,677 [INFO] Mixpanel: 0 matching posting(s) found
+2026-08-29 02:54:13,642 [INFO] Braze: 0 matching posting(s) found
+2026-08-29 02:54:15,112 [INFO] Iterable: 0 matching posting(s) found
+2026-08-29 02:54:18,038 [INFO] Klaviyo: 2 matching posting(s) found
+2026-08-29 02:54:19,473 [INFO] Statsig: 0 matching posting(s) found
+2026-08-29 02:54:21,743 [INFO] Okta: 89 matching posting(s) found
+2026-08-29 02:54:23,541 [INFO] CrowdStrike: 0 matching posting(s) found
+2026-08-29 02:54:26,013 [INFO] Palo Alto Networks: 11 matching posting(s) found
+2026-08-29 02:54:28,276 [INFO] Zscaler: 1 matching posting(s) found
+2026-08-29 02:54:32,158 [INFO] Fortinet: 2 matching posting(s) found
+2026-08-29 02:54:33,717 [INFO] SentinelOne: 0 matching posting(s) found
+2026-08-29 02:54:37,030 [INFO] Rapid7: 0 matching posting(s) found
+2026-08-29 02:54:38,726 [INFO] Tenable: 0 matching posting(s) found
+2026-08-29 02:54:40,393 [INFO] Snyk: 1 matching posting(s) found
+2026-08-29 02:54:41,958 [INFO] Wiz: 0 matching posting(s) found
+2026-08-29 02:54:44,084 [INFO] Netskope: 2 matching posting(s) found
+2026-08-29 02:54:46,711 [INFO] 1Password: 0 matching posting(s) found
+2026-08-29 02:54:49,001 [INFO] Darktrace: 0 matching posting(s) found
+2026-08-29 02:54:50,448 [INFO] Shopify: 0 matching posting(s) found
+2026-08-29 02:54:52,807 [INFO] Etsy: 0 matching posting(s) found
+2026-08-29 02:54:54,452 [INFO] Faire: 10 matching posting(s) found
+2026-08-29 02:54:55,784 [INFO] Whatnot: 0 matching posting(s) found
+2026-08-29 02:54:57,671 [INFO] StockX: 0 matching posting(s) found
+2026-08-29 02:54:58,762 [INFO] Poshmark: 0 matching posting(s) found
+2026-08-29 02:55:02,000 [INFO] ThredUp: 0 matching posting(s) found
+2026-08-29 02:55:04,192 [INFO] Rent the Runway: 0 matching posting(s) found
+2026-08-29 02:55:06,451 [INFO] Wayfair: 2 matching posting(s) found
+2026-08-29 02:55:08,901 [INFO] Chewy: 4 matching posting(s) found
+2026-08-29 02:55:11,222 [INFO] BigCommerce: 0 matching posting(s) found
+2026-08-29 02:55:19,738 [INFO] Squarespace: 3 matching posting(s) found
+2026-08-29 02:55:22,808 [INFO] Wix: 0 matching posting(s) found
+2026-08-29 02:55:26,571 [INFO] GoDaddy: 0 matching posting(s) found
+2026-08-29 02:55:28,580 [INFO] Automattic: 0 matching posting(s) found
+2026-08-29 02:55:30,223 [WARNING] Failed scraping DoorDash (https://boards.greenhouse.io/doordash): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/doordash/jobs?content=false
+2026-08-29 02:55:30,223 [INFO] DoorDash: 0 matching posting(s) found
+2026-08-29 02:55:31,742 [INFO] Instacart: 28 matching posting(s) found
+2026-08-29 02:55:33,419 [WARNING] Failed scraping Uber (https://boards.greenhouse.io/uber): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/uber/jobs?content=false
+2026-08-29 02:55:33,419 [INFO] Uber: 0 matching posting(s) found
+2026-08-29 02:55:34,940 [INFO] Lyft: 32 matching posting(s) found
+2026-08-29 02:55:36,463 [INFO] Airbnb: 36 matching posting(s) found
+2026-08-29 02:55:37,809 [INFO] Grubhub: 0 matching posting(s) found
+2026-08-29 02:55:39,164 [INFO] Gopuff: 0 matching posting(s) found
+2026-08-29 02:55:40,902 [INFO] Turo: 0 matching posting(s) found
+2026-08-29 02:55:43,199 [INFO] Getaround: 0 matching posting(s) found
+2026-08-29 02:55:44,673 [INFO] Lime: 0 matching posting(s) found
+2026-08-29 02:55:47,091 [INFO] Booking.com: 0 matching posting(s) found
+2026-08-29 02:55:48,959 [INFO] Expedia Group: 0 matching posting(s) found
+2026-08-29 02:55:51,826 [INFO] TripAdvisor: 0 matching posting(s) found
+2026-08-29 02:56:08,133 [INFO] Roblox: 0 matching posting(s) found
+2026-08-29 02:56:10,388 [INFO] Unity Technologies: 1 matching posting(s) found
+2026-08-29 02:56:11,575 [INFO] Epic Games: 0 matching posting(s) found
+2026-08-29 02:56:13,384 [INFO] Electronic Arts: 0 matching posting(s) found
+2026-08-29 02:56:15,923 [INFO] Activision Blizzard: 0 matching posting(s) found
+2026-08-29 02:56:17,370 [INFO] Riot Games: 55 matching posting(s) found
+2026-08-29 02:56:18,699 [INFO] Zynga: 0 matching posting(s) found
+2026-08-29 02:56:21,590 [INFO] Valve: 7 matching posting(s) found
+2026-08-29 02:56:26,264 [INFO] Niantic: 0 matching posting(s) found
+2026-08-29 02:56:28,185 [INFO] Spotify: 0 matching posting(s) found
+2026-08-29 02:56:30,561 [INFO] SoundCloud: 0 matching posting(s) found
+2026-08-29 02:56:32,219 [INFO] Discord: 22 matching posting(s) found
+2026-08-29 02:56:34,869 [INFO] Twitch: 0 matching posting(s) found
+2026-08-29 02:56:36,853 [INFO] Zillow: 0 matching posting(s) found
+2026-08-29 02:56:39,602 [INFO] Redfin: 0 matching posting(s) found
+2026-08-29 02:56:41,781 [INFO] Compass: 0 matching posting(s) found
+2026-08-29 02:56:44,569 [INFO] Opendoor: 0 matching posting(s) found
+2026-08-29 02:56:47,850 [INFO] Procore: 0 matching posting(s) found
+2026-08-29 02:56:49,421 [INFO] CoStar Group: 0 matching posting(s) found
+2026-08-29 02:56:52,242 [INFO] Oscar Health: 0 matching posting(s) found
+2026-08-29 02:56:53,795 [INFO] Ro: 0 matching posting(s) found
+2026-08-29 02:56:55,016 [INFO] Hims & Hers: 0 matching posting(s) found
+2026-08-29 02:56:58,272 [INFO] Included Health: 3 matching posting(s) found
+2026-08-29 02:57:01,591 [INFO] Teladoc Health: 0 matching posting(s) found
+2026-08-29 02:57:03,337 [INFO] GoodRx: 0 matching posting(s) found
+2026-08-29 02:57:05,658 [INFO] Doximity: 0 matching posting(s) found
+2026-08-29 02:57:07,190 [INFO] Tempus: 0 matching posting(s) found
+2026-08-29 02:57:08,991 [INFO] Flatiron Health: 1 matching posting(s) found
+2026-08-29 02:57:11,225 [INFO] Devoted Health: 0 matching posting(s) found
+2026-08-29 02:57:13,982 [INFO] Coursera: 0 matching posting(s) found
+2026-08-29 02:57:15,185 [INFO] Udemy: 0 matching posting(s) found
+2026-08-29 02:57:16,780 [INFO] Duolingo: 10 matching posting(s) found
+2026-08-29 02:57:18,542 [INFO] Chegg: 0 matching posting(s) found
+2026-08-29 02:57:19,897 [INFO] Khan Academy: 0 matching posting(s) found
+2026-08-29 02:57:21,534 [INFO] 2U: 0 matching posting(s) found
+2026-08-29 02:57:23,124 [INFO] Chainalysis: 0 matching posting(s) found
+2026-08-29 02:57:24,753 [INFO] Anchorage Digital: 0 matching posting(s) found
+2026-08-29 02:57:25,949 [INFO] BitGo: 0 matching posting(s) found
+2026-08-29 02:57:28,579 [INFO] OpenSea: 1 matching posting(s) found
+2026-08-29 02:57:30,369 [INFO] Consensys: 0 matching posting(s) found
+2026-08-29 02:57:33,283 [INFO] Flexport: 0 matching posting(s) found
+2026-08-29 02:57:35,116 [INFO] Samsara: 35 matching posting(s) found
+2026-08-29 02:57:38,539 [INFO] project44: 0 matching posting(s) found
+2026-08-29 02:57:41,244 [INFO] FourKites: 4 matching posting(s) found
+2026-08-29 02:57:42,944 [INFO] NVIDIA: 2 matching posting(s) found
+2026-08-29 02:57:47,196 [INFO] AMD: 1 matching posting(s) found
+2026-08-29 02:57:48,648 [INFO] Intel: 0 matching posting(s) found
+2026-08-29 02:57:49,843 [INFO] Qualcomm: 0 matching posting(s) found
+2026-08-29 02:57:51,166 [INFO] Texas Instruments: 0 matching posting(s) found
+2026-08-29 02:57:54,534 [INFO] Micron Technology: 1 matching posting(s) found
+2026-08-29 02:57:56,317 [INFO] Western Digital: 0 matching posting(s) found
+2026-08-29 02:57:58,039 [INFO] Seagate Technology: 0 matching posting(s) found
+2026-08-29 02:57:59,496 [INFO] Arista Networks: 0 matching posting(s) found
+2026-08-29 02:58:00,804 [INFO] Juniper Networks: 0 matching posting(s) found
+2026-08-29 02:58:02,109 [INFO] Tesla: 0 matching posting(s) found
+2026-08-29 02:58:03,403 [INFO] SpaceX: 0 matching posting(s) found
+2026-08-29 02:58:04,695 [INFO] Workiva: 0 matching posting(s) found
+2026-08-29 02:58:07,077 [INFO] Smartsheet: 1 matching posting(s) found
+2026-08-29 02:58:08,852 [INFO] UiPath: 0 matching posting(s) found
+2026-08-29 02:58:12,714 [INFO] Automation Anywhere: 1 matching posting(s) found
+2026-08-29 02:58:16,744 [INFO] Blue Yonder: 0 matching posting(s) found
+2026-08-29 02:58:19,300 [INFO] Qualtrics: 0 matching posting(s) found
+2026-08-29 02:58:22,078 [INFO] C3.ai: 1 matching posting(s) found
+2026-08-29 02:58:24,439 [INFO] Nutanix: 0 matching posting(s) found
+2026-08-29 02:58:27,914 [INFO] Pure Storage: 1 matching posting(s) found
+2026-08-29 02:58:29,963 [INFO] Splunk: 0 matching posting(s) found
+2026-08-29 02:58:31,485 [INFO] Cloudera: 0 matching posting(s) found
+2026-08-29 02:58:33,660 [INFO] PagerDuty: 0 matching posting(s) found
+2026-08-29 02:58:35,448 [INFO] New Relic: 0 matching posting(s) found
+2026-08-29 02:58:36,923 [INFO] Toast: 0 matching posting(s) found
+2026-08-29 02:58:41,705 [INFO] DocuSign: 0 matching posting(s) found
+2026-08-29 02:58:43,182 [INFO] Palantir Technologies: 0 matching posting(s) found
+2026-08-29 02:58:46,808 [INFO] Freshworks: 0 matching posting(s) found
+2026-08-29 02:58:49,354 [INFO] Zoho: 0 matching posting(s) found
+2026-08-29 02:58:51,024 [INFO] Chargebee: 0 matching posting(s) found
+2026-08-29 02:58:52,891 [INFO] Razorpay: 0 matching posting(s) found
+2026-08-29 02:58:54,218 [INFO] CRED: 0 matching posting(s) found
+2026-08-29 02:58:55,661 [INFO] Swiggy: 0 matching posting(s) found
+2026-08-29 02:59:11,877 [INFO] Zomato: 0 matching posting(s) found
+2026-08-29 02:59:13,447 [INFO] Flipkart: 0 matching posting(s) found
+2026-08-29 02:59:14,758 [INFO] Myntra: 0 matching posting(s) found
+2026-08-29 02:59:16,322 [INFO] Paytm: 0 matching posting(s) found
+2026-08-29 02:59:17,691 [INFO] PhonePe: 0 matching posting(s) found
+2026-08-29 02:59:19,377 [INFO] Ola: 0 matching posting(s) found
+2026-08-29 02:59:20,834 [INFO] Meesho: 0 matching posting(s) found
+2026-08-29 02:59:22,551 [INFO] Urban Company: 0 matching posting(s) found
+2026-08-29 02:59:25,389 [INFO] InMobi: 0 matching posting(s) found
+2026-08-29 02:59:28,108 [INFO] Innovaccer: 0 matching posting(s) found
+2026-08-29 02:59:31,745 [INFO] Druva: 0 matching posting(s) found
+2026-08-29 02:59:33,473 [INFO] CleverTap: 1 matching posting(s) found
+2026-08-29 02:59:35,130 [INFO] Whatfix: 0 matching posting(s) found
+2026-08-29 02:59:36,953 [INFO] Darwinbox: 0 matching posting(s) found
+2026-08-29 02:59:38,229 [INFO] Groww: 0 matching posting(s) found
+2026-08-29 02:59:40,244 [INFO] Dream Sports (Dream11): 0 matching posting(s) found
+2026-08-29 02:59:41,943 [INFO] Nykaa: 0 matching posting(s) found
+2026-08-29 02:59:43,540 [INFO] Lenskart: 0 matching posting(s) found
+2026-08-29 02:59:59,704 [INFO] PolicyBazaar: 0 matching posting(s) found
+2026-08-29 03:00:01,109 [INFO] Delhivery: 0 matching posting(s) found
+2026-08-29 03:00:02,478 [INFO] Porter: 0 matching posting(s) found
+2026-08-29 03:00:04,409 [INFO] BigBasket: 0 matching posting(s) found
+2026-08-29 03:00:05,832 [INFO] upGrad: 8 matching posting(s) found
+2026-08-29 03:00:07,234 [INFO] Physics Wallah: 0 matching posting(s) found
+2026-08-29 03:00:08,701 [INFO] Accenture: 2 matching posting(s) found
+2026-08-29 03:00:09,999 [INFO] Infosys: 0 matching posting(s) found
+2026-08-29 03:00:11,296 [INFO] Tata Consultancy Services (TCS): 0 matching posting(s) found
+2026-08-29 03:00:15,153 [INFO] Wipro: 0 matching posting(s) found
+2026-08-29 03:00:16,390 [INFO] Cognizant: 0 matching posting(s) found
+2026-08-29 03:00:18,264 [INFO] Capgemini: 3 matching posting(s) found
+2026-08-29 03:00:34,468 [INFO] HCLTech: 0 matching posting(s) found
+2026-08-29 03:00:36,391 [INFO] Tech Mahindra: 0 matching posting(s) found
+2026-08-29 03:00:38,202 [INFO] Deloitte Digital: 0 matching posting(s) found
+2026-08-29 03:00:39,457 [INFO] EPAM Systems: 0 matching posting(s) found
+2026-08-29 03:00:40,727 [INFO] Globant: 0 matching posting(s) found
+2026-08-29 03:00:42,328 [INFO] Thoughtworks: 0 matching posting(s) found
+2026-08-29 03:00:46,577 [INFO] Rivian: 0 matching posting(s) found
+2026-08-29 03:00:49,674 [INFO] Lucid Motors: 0 matching posting(s) found
+2026-08-29 03:00:52,059 [INFO] Waymo: 0 matching posting(s) found
+2026-08-29 03:00:54,844 [INFO] Zoox: 0 matching posting(s) found
+2026-08-29 03:00:57,961 [INFO] Anduril Industries: 0 matching posting(s) found
+2026-08-29 03:01:00,634 [INFO] AT&T: 0 matching posting(s) found
+2026-08-29 03:01:03,628 [INFO] Verizon: 0 matching posting(s) found
+2026-08-29 03:01:05,101 [INFO] T-Mobile: 0 matching posting(s) found
+2026-08-29 03:01:08,912 [INFO] Adyen: 0 matching posting(s) found
+2026-08-29 03:01:10,373 [INFO] Wise: 0 matching posting(s) found
+2026-08-29 03:01:12,079 [INFO] Revolut: 0 matching posting(s) found
+2026-08-29 03:01:13,847 [INFO] Klarna: 0 matching posting(s) found
+2026-08-29 03:01:16,484 [INFO] N26: 5 matching posting(s) found
+2026-08-29 03:01:18,403 [INFO] Nubank: 0 matching posting(s) found
+2026-08-29 03:01:19,624 [INFO] xAI: 0 matching posting(s) found
+2026-08-29 03:01:21,627 [INFO] Stability AI: 0 matching posting(s) found
+2026-08-29 03:01:23,363 [INFO] Inflection AI: 0 matching posting(s) found
+2026-08-29 03:01:24,607 [INFO] Adept AI: 0 matching posting(s) found
+2026-08-29 03:01:27,627 [INFO] Netlify: 1 matching posting(s) found
+2026-08-29 03:01:28,981 [INFO] Celonis: 0 matching posting(s) found
+2026-08-29 03:01:30,548 [INFO] Anaplan: 3 matching posting(s) found
+2026-08-29 03:01:33,556 [INFO] Workato: 0 matching posting(s) found
+2026-08-29 03:01:33,572 [INFO] Total new matches this run: 1366
+2026-08-29 03:01:35,423 [ERROR] Failed to send email: 'ascii' codec can't encode character '\xa0' in position 33: ordinal not in range(128)
+2026-08-29 03:12:40,358 [INFO] Google: 0 matching posting(s) found
+2026-08-29 03:12:42,122 [INFO] Microsoft: 0 matching posting(s) found
+2026-08-29 03:12:44,845 [INFO] Amazon: 0 matching posting(s) found
+2026-08-29 03:12:47,882 [INFO] Apple: 1 matching posting(s) found
+2026-08-29 03:26:10,347 [INFO] Google: 0 matching posting(s) found
+2026-08-29 03:26:11,942 [INFO] Microsoft: 0 matching posting(s) found
+2026-08-29 03:26:14,429 [INFO] Amazon: 0 matching posting(s) found
+2026-08-29 03:26:17,666 [INFO] Apple: 1 matching posting(s) found
+2026-08-29 03:26:19,898 [INFO] Meta: 0 matching posting(s) found
+2026-08-29 03:26:22,153 [INFO] Netflix: 0 matching posting(s) found
+2026-08-29 03:26:23,369 [INFO] Oracle: 0 matching posting(s) found
+2026-08-29 03:26:26,760 [INFO] SAP: 0 matching posting(s) found
+2026-08-29 03:26:28,284 [INFO] IBM: 0 matching posting(s) found
+2026-08-29 03:26:31,765 [INFO] Salesforce: 0 matching posting(s) found
+2026-08-29 03:26:34,118 [INFO] Adobe: 0 matching posting(s) found
+2026-08-29 03:26:36,976 [INFO] Cisco: 0 matching posting(s) found
+2026-08-29 03:26:38,819 [INFO] VMware (Broadcom): 0 matching posting(s) found
+2026-08-29 03:26:40,889 [INFO] ServiceNow: 0 matching posting(s) found
+2026-08-29 03:26:43,215 [INFO] Workday: 0 matching posting(s) found
+2026-08-29 03:26:45,279 [INFO] Intuit: 1 matching posting(s) found
+2026-08-29 03:26:46,784 [INFO] PayPal: 0 matching posting(s) found
+2026-08-29 03:26:50,150 [INFO] Block: 0 matching posting(s) found
+2026-08-29 03:26:51,437 [INFO] Snap Inc: 1 matching posting(s) found
+2026-08-29 03:26:53,107 [INFO] LinkedIn: 0 matching posting(s) found
+2026-08-29 03:26:54,942 [INFO] X (Twitter): 0 matching posting(s) found
+2026-08-29 03:26:57,284 [INFO] Zoom: 0 matching posting(s) found
+2026-08-29 03:26:58,790 [INFO] Atlassian: 0 matching posting(s) found
+2026-08-29 03:27:01,515 [INFO] Slack: 1 matching posting(s) found
+2026-08-29 03:27:05,677 [INFO] Anthropic: 91 matching posting(s) found
+2026-08-29 03:27:07,297 [INFO] OpenAI: 0 matching posting(s) found
+2026-08-29 03:27:09,148 [INFO] Scale AI: 1 matching posting(s) found
+2026-08-29 03:27:12,269 [INFO] Hugging Face: 0 matching posting(s) found
+2026-08-29 03:27:14,656 [INFO] Cohere: 2 matching posting(s) found
+2026-08-29 03:27:17,031 [INFO] Mistral AI: 0 matching posting(s) found
+2026-08-29 03:27:18,332 [INFO] Perplexity AI: 0 matching posting(s) found
+2026-08-29 03:27:20,190 [INFO] Runway: 0 matching posting(s) found
+2026-08-29 03:27:21,758 [INFO] Character.AI: 0 matching posting(s) found
+2026-08-29 03:27:23,360 [INFO] Together AI: 3 matching posting(s) found
+2026-08-29 03:27:26,019 [INFO] Weights & Biases: 8 matching posting(s) found
+2026-08-29 03:27:27,875 [INFO] Pinecone: 5 matching posting(s) found
+2026-08-29 03:27:30,097 [INFO] Modal: 0 matching posting(s) found
+2026-08-29 03:27:31,566 [INFO] LangChain: 1 matching posting(s) found
+2026-08-29 03:27:32,880 [INFO] Replit: 0 matching posting(s) found
+2026-08-29 03:27:35,628 [INFO] Supabase: 2 matching posting(s) found
+2026-08-29 03:27:38,150 [INFO] Neon: 1 matching posting(s) found
+2026-08-29 03:27:39,945 [INFO] PlanetScale: 5 matching posting(s) found
+2026-08-29 03:27:43,074 [INFO] Stripe: 71 matching posting(s) found
+2026-08-29 03:27:45,112 [INFO] Coinbase: 52 matching posting(s) found
+2026-08-29 03:27:47,199 [INFO] Robinhood: 34 matching posting(s) found
+2026-08-29 03:27:48,736 [WARNING] Failed scraping Plaid (https://boards.greenhouse.io/plaid): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/plaid/jobs?content=true
+2026-08-29 03:27:48,736 [INFO] Plaid: 0 matching posting(s) found
+2026-08-29 03:27:51,219 [INFO] Brex: 43 matching posting(s) found
+2026-08-29 03:27:52,737 [WARNING] Failed scraping Ramp (https://boards.greenhouse.io/ramp): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/ramp/jobs?content=true
+2026-08-29 03:27:52,737 [INFO] Ramp: 0 matching posting(s) found
+2026-08-29 03:27:54,514 [INFO] Chime: 19 matching posting(s) found
+2026-08-29 03:27:56,751 [INFO] Affirm: 117 matching posting(s) found
+2026-08-29 03:27:58,456 [INFO] Carta: 3 matching posting(s) found
+2026-08-29 03:28:00,345 [INFO] Gusto: 26 matching posting(s) found
+2026-08-29 03:28:02,128 [INFO] Remote: 0 matching posting(s) found
+2026-08-29 03:28:18,399 [INFO] Deel: 0 matching posting(s) found
+2026-08-29 03:28:19,868 [INFO] Rippling: 0 matching posting(s) found
+2026-08-29 03:28:22,353 [INFO] Kraken: 0 matching posting(s) found
+2026-08-29 03:28:23,920 [INFO] Gemini: 0 matching posting(s) found
+2026-08-29 03:28:29,169 [INFO] Circle: 0 matching posting(s) found
+2026-08-29 03:28:32,281 [INFO] Ripple: 0 matching posting(s) found
+2026-08-29 03:28:34,103 [INFO] Visa: 0 matching posting(s) found
+2026-08-29 03:28:36,336 [INFO] Mastercard: 0 matching posting(s) found
+2026-08-29 03:28:37,822 [INFO] American Express: 0 matching posting(s) found
+2026-08-29 03:28:39,376 [INFO] Goldman Sachs: 0 matching posting(s) found
+2026-08-29 03:28:40,806 [INFO] JPMorgan Chase: 0 matching posting(s) found
+2026-08-29 03:28:57,132 [INFO] Morgan Stanley: 0 matching posting(s) found
+2026-08-29 03:29:00,674 [INFO] Capital One: 0 matching posting(s) found
+2026-08-29 03:29:03,235 [INFO] Bloomberg: 0 matching posting(s) found
+2026-08-29 03:29:06,309 [INFO] Cloudflare: 31 matching posting(s) found
+2026-08-29 03:29:08,288 [INFO] Vercel: 17 matching posting(s) found
+2026-08-29 03:29:10,502 [INFO] Twilio: 30 matching posting(s) found
+2026-08-29 03:29:13,620 [INFO] Datadog: 36 matching posting(s) found
+2026-08-29 03:29:15,139 [WARNING] Failed scraping Snowflake (https://boards.greenhouse.io/snowflake): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/snowflake/jobs?content=true
+2026-08-29 03:29:15,141 [INFO] Snowflake: 0 matching posting(s) found
+2026-08-29 03:29:19,555 [INFO] Databricks: 191 matching posting(s) found
+2026-08-29 03:29:21,872 [INFO] GitLab: 49 matching posting(s) found
+2026-08-29 03:29:28,284 [INFO] MongoDB: 1 matching posting(s) found
+2026-08-29 03:29:30,071 [INFO] Elastic: 2 matching posting(s) found
+2026-08-29 03:29:34,810 [INFO] Confluent: 0 matching posting(s) found
+2026-08-29 03:29:36,386 [INFO] Docker: 1 matching posting(s) found
+2026-08-29 03:29:37,949 [INFO] HashiCorp: 0 matching posting(s) found
+2026-08-29 03:29:39,392 [INFO] JetBrains: 0 matching posting(s) found
+2026-08-29 03:29:45,420 [INFO] GitHub: 0 matching posting(s) found
+2026-08-29 03:29:47,247 [INFO] Red Hat: 1 matching posting(s) found
+2026-08-29 03:29:49,894 [INFO] Canonical: 1 matching posting(s) found
+2026-08-29 03:29:52,559 [INFO] Postman: 2 matching posting(s) found
+2026-08-29 03:29:54,056 [INFO] BrowserStack: 0 matching posting(s) found
+2026-08-29 03:29:56,580 [INFO] Sentry: 18 matching posting(s) found
+2026-08-29 03:29:58,407 [INFO] Grafana Labs: 0 matching posting(s) found
+2026-08-29 03:30:00,119 [INFO] LaunchDarkly: 2 matching posting(s) found
+2026-08-29 03:30:01,986 [INFO] Render: 11 matching posting(s) found
+2026-08-29 03:30:04,734 [INFO] Fly.io: 0 matching posting(s) found
+2026-08-29 03:30:06,835 [INFO] Cockroach Labs: 0 matching posting(s) found
+2026-08-29 03:30:08,584 [INFO] Redis: 1 matching posting(s) found
+2026-08-29 03:30:11,008 [INFO] Temporal: 16 matching posting(s) found
+2026-08-29 03:30:12,471 [INFO] Neo4j: 8 matching posting(s) found
+2026-08-29 03:30:14,144 [INFO] Couchbase: 0 matching posting(s) found
+2026-08-29 03:30:16,307 [INFO] DigitalOcean: 0 matching posting(s) found
+2026-08-29 03:30:17,627 [INFO] Akamai: 0 matching posting(s) found
+2026-08-29 03:30:19,217 [INFO] Fastly: 2 matching posting(s) found
+2026-08-29 03:30:21,514 [INFO] Equinix: 2 matching posting(s) found
+2026-08-29 03:30:24,350 [INFO] Notion: 16 matching posting(s) found
+2026-08-29 03:30:27,118 [INFO] Figma: 26 matching posting(s) found
+2026-08-29 03:30:29,157 [INFO] Airtable: 3 matching posting(s) found
+2026-08-29 03:30:32,003 [INFO] Miro: 0 matching posting(s) found
+2026-08-29 03:30:33,456 [INFO] Canva: 0 matching posting(s) found
+2026-08-29 03:30:35,208 [INFO] Asana: 0 matching posting(s) found
+2026-08-29 03:30:38,565 [INFO] Monday.com: 0 matching posting(s) found
+2026-08-29 03:30:40,069 [INFO] ClickUp: 0 matching posting(s) found
+2026-08-29 03:30:44,453 [INFO] Coda: 0 matching posting(s) found
+2026-08-29 03:30:46,325 [INFO] Webflow: 3 matching posting(s) found
+2026-08-29 03:30:47,860 [WARNING] Failed scraping Retool (https://boards.greenhouse.io/retool): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/retool/jobs?content=true
+2026-08-29 03:30:47,860 [INFO] Retool: 0 matching posting(s) found
+2026-08-29 03:30:50,842 [INFO] Linear: 1 matching posting(s) found
+2026-08-29 03:30:52,542 [INFO] Dropbox: 5 matching posting(s) found
+2026-08-29 03:30:53,901 [INFO] Box: 0 matching posting(s) found
+2026-08-29 03:30:56,537 [INFO] Grammarly: 0 matching posting(s) found
+2026-08-29 03:30:58,549 [INFO] Calendly: 4 matching posting(s) found
+2026-08-29 03:31:00,512 [INFO] Typeform: 2 matching posting(s) found
+2026-08-29 03:31:02,081 [INFO] Zapier: 2 matching posting(s) found
+2026-08-29 03:31:03,522 [INFO] HubSpot: 1 matching posting(s) found
+2026-08-29 03:31:05,956 [INFO] Zendesk: 1 matching posting(s) found
+2026-08-29 03:31:18,662 [INFO] Amplitude: 0 matching posting(s) found
+2026-08-29 03:31:21,995 [INFO] Mixpanel: 0 matching posting(s) found
+2026-08-29 04:10:29,786 [INFO] Braze: 0 matching posting(s) found
+2026-08-29 04:10:30,825 [INFO] Iterable: 0 matching posting(s) found
+2026-08-29 04:10:31,852 [INFO] Klaviyo: 0 matching posting(s) found
+2026-08-29 04:10:32,869 [INFO] Statsig: 0 matching posting(s) found
+2026-08-29 04:10:33,881 [WARNING] Failed scraping Okta (https://boards.greenhouse.io/okta): HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Max retries exceeded with url: /v1/boards/okta/jobs?content=true (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001F7261B5A48>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2026-08-29 04:10:33,882 [INFO] Okta: 0 matching posting(s) found
+2026-08-29 05:29:14,728 [INFO] CrowdStrike: 0 matching posting(s) found
+2026-08-29 05:29:15,782 [INFO] Palo Alto Networks: 0 matching posting(s) found
+2026-08-29 05:29:16,814 [INFO] Zscaler: 0 matching posting(s) found
+2026-08-29 05:29:17,832 [INFO] Fortinet: 0 matching posting(s) found
+2026-08-29 05:29:18,844 [INFO] SentinelOne: 0 matching posting(s) found
+2026-08-29 05:29:19,891 [INFO] Rapid7: 0 matching posting(s) found
+2026-08-29 05:29:20,906 [INFO] Tenable: 0 matching posting(s) found
+2026-08-29 05:29:21,915 [INFO] Snyk: 0 matching posting(s) found
+2026-08-29 05:29:22,948 [INFO] Wiz: 0 matching posting(s) found
+2026-08-29 05:29:25,021 [INFO] Netskope: 0 matching posting(s) found
+2026-08-29 05:29:26,034 [INFO] 1Password: 0 matching posting(s) found
+2026-08-29 05:29:27,043 [INFO] Darktrace: 0 matching posting(s) found
+2026-08-29 05:29:28,059 [INFO] Shopify: 0 matching posting(s) found
+2026-08-29 13:48:52,145 [INFO] Etsy: 0 matching posting(s) found
+2026-08-29 13:48:53,441 [WARNING] Failed scraping Faire (https://boards.greenhouse.io/faire): HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Max retries exceeded with url: /v1/boards/faire/jobs?content=true (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001F726621608>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2026-08-29 13:48:53,444 [INFO] Faire: 0 matching posting(s) found
+2026-08-29 13:48:54,489 [INFO] Whatnot: 0 matching posting(s) found
+2026-08-29 13:48:55,509 [INFO] StockX: 0 matching posting(s) found
+2026-08-29 13:48:56,556 [INFO] Poshmark: 0 matching posting(s) found
+2026-08-29 13:48:57,578 [INFO] ThredUp: 0 matching posting(s) found
+2026-08-29 13:48:58,597 [INFO] Rent the Runway: 0 matching posting(s) found
+2026-08-29 13:48:59,615 [INFO] Wayfair: 0 matching posting(s) found
+2026-08-29 13:49:00,625 [INFO] Chewy: 0 matching posting(s) found
+2026-08-29 13:49:01,634 [INFO] BigCommerce: 0 matching posting(s) found
+2026-08-29 13:49:02,663 [INFO] Squarespace: 0 matching posting(s) found
+2026-08-29 13:49:03,677 [INFO] Wix: 0 matching posting(s) found
+2026-08-29 13:49:04,688 [INFO] GoDaddy: 0 matching posting(s) found
+2026-08-29 13:49:05,702 [INFO] Automattic: 0 matching posting(s) found
+2026-08-29 13:49:06,716 [WARNING] Failed scraping DoorDash (https://boards.greenhouse.io/doordash): HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Max retries exceeded with url: /v1/boards/doordash/jobs?content=true (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001F7266215C8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2026-08-29 13:49:06,717 [INFO] DoorDash: 0 matching posting(s) found
+2026-08-29 13:49:07,729 [WARNING] Failed scraping Instacart (https://boards.greenhouse.io/instacart): HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Max retries exceeded with url: /v1/boards/instacart/jobs?content=true (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001F726625A08>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2026-08-29 13:49:07,729 [INFO] Instacart: 0 matching posting(s) found
+2026-08-29 13:49:08,742 [WARNING] Failed scraping Uber (https://boards.greenhouse.io/uber): HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Max retries exceeded with url: /v1/boards/uber/jobs?content=true (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001F726625788>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2026-08-29 13:49:08,742 [INFO] Uber: 0 matching posting(s) found
+2026-08-29 13:49:09,748 [WARNING] Failed scraping Lyft (https://boards.greenhouse.io/lyft): HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Max retries exceeded with url: /v1/boards/lyft/jobs?content=true (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001F7261B5748>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2026-08-29 13:49:09,748 [INFO] Lyft: 0 matching posting(s) found
+2026-08-29 13:49:10,767 [WARNING] Failed scraping Airbnb (https://boards.greenhouse.io/airbnb): HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Max retries exceeded with url: /v1/boards/airbnb/jobs?content=true (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001F7261B58C8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2026-08-29 13:49:10,768 [INFO] Airbnb: 0 matching posting(s) found
+2026-08-29 13:49:11,784 [INFO] Grubhub: 0 matching posting(s) found
+2026-08-29 13:49:12,799 [INFO] Gopuff: 0 matching posting(s) found
+2026-08-29 13:49:13,805 [INFO] Turo: 0 matching posting(s) found
+2026-08-29 13:49:14,821 [INFO] Getaround: 0 matching posting(s) found
+2026-08-29 13:49:15,837 [INFO] Lime: 0 matching posting(s) found
+2026-08-29 13:49:16,854 [INFO] Booking.com: 0 matching posting(s) found
+2026-08-29 13:49:17,870 [INFO] Expedia Group: 0 matching posting(s) found
+2026-08-29 13:49:18,880 [INFO] TripAdvisor: 0 matching posting(s) found
+2026-08-29 13:49:19,893 [INFO] Roblox: 0 matching posting(s) found
+2026-08-29 13:49:20,906 [INFO] Unity Technologies: 0 matching posting(s) found
+2026-08-29 13:49:21,915 [INFO] Epic Games: 0 matching posting(s) found
+2026-08-29 13:49:22,926 [INFO] Electronic Arts: 0 matching posting(s) found
+2026-08-29 13:49:23,937 [INFO] Activision Blizzard: 0 matching posting(s) found
+2026-08-29 13:49:24,953 [INFO] Riot Games: 0 matching posting(s) found
+2026-08-29 13:49:25,971 [INFO] Zynga: 0 matching posting(s) found
+2026-08-29 13:49:26,980 [INFO] Valve: 0 matching posting(s) found
+2026-08-29 13:49:27,997 [INFO] Niantic: 0 matching posting(s) found
+2026-08-29 13:49:29,007 [INFO] Spotify: 0 matching posting(s) found
+2026-08-29 13:49:30,018 [INFO] SoundCloud: 0 matching posting(s) found
+2026-08-29 13:49:31,034 [WARNING] Failed scraping Discord (https://boards.greenhouse.io/discord): HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Max retries exceeded with url: /v1/boards/discord/jobs?content=true (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001F7261B5608>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2026-08-29 13:49:31,035 [INFO] Discord: 0 matching posting(s) found
+2026-08-29 13:49:32,050 [INFO] Twitch: 0 matching posting(s) found
+2026-08-29 13:49:33,063 [INFO] Zillow: 0 matching posting(s) found
+2026-08-29 13:49:34,077 [INFO] Redfin: 0 matching posting(s) found
+2026-08-29 13:49:35,094 [INFO] Compass: 0 matching posting(s) found
+2026-08-29 13:49:36,104 [INFO] Opendoor: 0 matching posting(s) found
+2026-08-29 13:49:37,123 [INFO] Procore: 0 matching posting(s) found
+2026-08-29 13:49:39,145 [INFO] CoStar Group: 0 matching posting(s) found
+2026-08-29 13:49:40,160 [INFO] Oscar Health: 0 matching posting(s) found
+2026-08-29 13:49:41,181 [INFO] Ro: 0 matching posting(s) found
+2026-08-29 13:49:42,193 [INFO] Hims & Hers: 0 matching posting(s) found
+2026-08-29 13:49:43,207 [INFO] Included Health: 0 matching posting(s) found
+2026-08-29 13:49:44,215 [INFO] Teladoc Health: 0 matching posting(s) found
+2026-08-29 13:49:45,223 [INFO] GoodRx: 0 matching posting(s) found
+2026-08-29 13:49:46,229 [INFO] Doximity: 0 matching posting(s) found
+2026-08-29 13:49:47,241 [INFO] Tempus: 0 matching posting(s) found
+2026-08-29 13:49:48,259 [INFO] Flatiron Health: 0 matching posting(s) found
+2026-08-29 13:49:49,276 [INFO] Devoted Health: 0 matching posting(s) found
+2026-08-29 13:49:50,291 [INFO] Coursera: 0 matching posting(s) found
+2026-08-29 13:49:51,306 [INFO] Udemy: 0 matching posting(s) found
+2026-08-29 13:49:52,328 [WARNING] Failed scraping Duolingo (https://boards.greenhouse.io/duolingo): HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Max retries exceeded with url: /v1/boards/duolingo/jobs?content=true (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001F726621608>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2026-08-29 13:49:52,328 [INFO] Duolingo: 0 matching posting(s) found
+2026-08-29 13:49:53,344 [INFO] Chegg: 0 matching posting(s) found
+2026-08-29 13:49:54,352 [INFO] Khan Academy: 0 matching posting(s) found
+2026-08-29 13:49:55,372 [INFO] 2U: 0 matching posting(s) found
+2026-08-29 13:49:56,389 [INFO] Chainalysis: 0 matching posting(s) found
+2026-08-29 13:49:57,410 [INFO] Anchorage Digital: 0 matching posting(s) found
+2026-08-29 13:49:58,430 [INFO] BitGo: 0 matching posting(s) found
+2026-08-29 13:49:59,448 [INFO] OpenSea: 0 matching posting(s) found
+2026-08-29 13:50:00,463 [INFO] Consensys: 0 matching posting(s) found
+2026-08-29 13:50:01,480 [INFO] Flexport: 0 matching posting(s) found
+2026-08-29 13:50:02,487 [WARNING] Failed scraping Samsara (https://boards.greenhouse.io/samsara): HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Max retries exceeded with url: /v1/boards/samsara/jobs?content=true (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001F7261B5648>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2026-08-29 13:50:02,487 [INFO] Samsara: 0 matching posting(s) found
+2026-08-29 13:50:03,505 [INFO] project44: 0 matching posting(s) found
+2026-08-29 13:50:04,523 [INFO] FourKites: 0 matching posting(s) found
+2026-08-29 13:50:05,534 [INFO] NVIDIA: 0 matching posting(s) found
+2026-08-29 13:50:06,548 [INFO] AMD: 0 matching posting(s) found
+2026-08-29 13:50:07,554 [INFO] Intel: 0 matching posting(s) found
+2026-08-29 13:50:08,565 [INFO] Qualcomm: 0 matching posting(s) found
+2026-08-29 13:50:09,574 [INFO] Texas Instruments: 0 matching posting(s) found
+2026-08-29 13:50:10,594 [INFO] Micron Technology: 0 matching posting(s) found
+2026-08-29 13:50:11,605 [INFO] Western Digital: 0 matching posting(s) found
+2026-08-29 13:50:12,617 [INFO] Seagate Technology: 0 matching posting(s) found
+2026-08-29 13:50:13,633 [INFO] Arista Networks: 0 matching posting(s) found
+2026-08-29 13:50:14,640 [INFO] Juniper Networks: 0 matching posting(s) found
+2026-08-29 13:50:15,660 [INFO] Tesla: 0 matching posting(s) found
+2026-08-29 13:50:16,676 [INFO] SpaceX: 0 matching posting(s) found
+2026-08-29 13:50:17,692 [INFO] Workiva: 0 matching posting(s) found
+2026-08-29 13:50:18,707 [INFO] Smartsheet: 0 matching posting(s) found
+2026-08-29 13:50:19,721 [INFO] UiPath: 0 matching posting(s) found
+2026-08-29 13:50:20,737 [INFO] Automation Anywhere: 0 matching posting(s) found
+2026-08-29 13:50:21,750 [INFO] Blue Yonder: 0 matching posting(s) found
+2026-08-29 13:50:22,770 [INFO] Qualtrics: 0 matching posting(s) found
+2026-08-29 13:50:23,787 [INFO] C3.ai: 0 matching posting(s) found
+2026-08-29 13:50:24,803 [INFO] Nutanix: 0 matching posting(s) found
+2026-08-29 13:50:25,821 [INFO] Pure Storage: 0 matching posting(s) found
+2026-08-29 13:50:26,833 [INFO] Splunk: 0 matching posting(s) found
+2026-08-29 13:50:27,856 [INFO] Cloudera: 0 matching posting(s) found
+2026-08-29 13:50:28,869 [INFO] PagerDuty: 0 matching posting(s) found
+2026-08-29 13:50:29,882 [INFO] New Relic: 0 matching posting(s) found
+2026-08-29 13:50:30,901 [INFO] Toast: 0 matching posting(s) found
+2026-08-29 13:50:31,912 [INFO] DocuSign: 0 matching posting(s) found
+2026-08-29 13:50:32,925 [INFO] Palantir Technologies: 0 matching posting(s) found
+2026-08-29 13:50:33,940 [INFO] Freshworks: 0 matching posting(s) found
+2026-08-29 13:50:34,956 [INFO] Zoho: 0 matching posting(s) found
+2026-08-29 13:50:35,972 [INFO] Chargebee: 0 matching posting(s) found
+2026-08-29 13:50:36,985 [INFO] Razorpay: 0 matching posting(s) found
+2026-08-29 13:50:38,001 [INFO] CRED: 0 matching posting(s) found
+2026-08-29 13:50:39,017 [INFO] Swiggy: 0 matching posting(s) found
+2026-08-29 13:50:40,031 [INFO] Zomato: 0 matching posting(s) found
+2026-08-29 13:50:41,043 [INFO] Flipkart: 0 matching posting(s) found
+2026-08-29 13:50:42,056 [INFO] Myntra: 0 matching posting(s) found
+2026-08-29 13:50:43,076 [INFO] Paytm: 0 matching posting(s) found
+2026-08-29 13:50:44,090 [INFO] PhonePe: 0 matching posting(s) found
+2026-08-29 13:50:45,098 [INFO] Ola: 0 matching posting(s) found
+2026-08-29 13:50:46,113 [INFO] Meesho: 0 matching posting(s) found
+2026-08-29 13:50:47,129 [INFO] Urban Company: 0 matching posting(s) found
+2026-08-29 13:50:48,144 [INFO] InMobi: 0 matching posting(s) found
+2026-08-29 13:50:49,160 [INFO] Innovaccer: 0 matching posting(s) found
+2026-08-29 13:50:50,178 [INFO] Druva: 0 matching posting(s) found
+2026-08-29 13:50:51,198 [INFO] CleverTap: 0 matching posting(s) found
+2026-08-29 13:50:52,215 [INFO] Whatfix: 0 matching posting(s) found
+2026-08-29 13:50:53,233 [INFO] Darwinbox: 0 matching posting(s) found
+2026-08-29 13:50:54,248 [INFO] Groww: 0 matching posting(s) found
+2026-08-29 13:50:55,256 [INFO] Dream Sports (Dream11): 0 matching posting(s) found
+2026-08-29 13:50:56,271 [INFO] Nykaa: 0 matching posting(s) found
+2026-08-29 13:50:57,293 [INFO] Lenskart: 0 matching posting(s) found
+2026-08-29 13:50:58,305 [INFO] PolicyBazaar: 0 matching posting(s) found
+2026-08-29 13:50:59,322 [INFO] Delhivery: 0 matching posting(s) found
+2026-08-29 13:51:00,337 [INFO] Porter: 0 matching posting(s) found
+2026-08-29 13:51:01,352 [INFO] BigBasket: 0 matching posting(s) found
+2026-08-29 13:51:02,371 [INFO] upGrad: 0 matching posting(s) found
+2026-08-29 13:51:03,389 [INFO] Physics Wallah: 0 matching posting(s) found
+2026-08-29 13:51:04,403 [INFO] Accenture: 0 matching posting(s) found
+2026-08-29 13:51:05,415 [INFO] Infosys: 0 matching posting(s) found
+2026-08-29 13:51:06,428 [INFO] Tata Consultancy Services (TCS): 0 matching posting(s) found
+2026-08-29 13:51:07,447 [INFO] Wipro: 0 matching posting(s) found
+2026-08-29 13:51:08,462 [INFO] Cognizant: 0 matching posting(s) found
+2026-08-29 13:51:09,480 [INFO] Capgemini: 0 matching posting(s) found
+2026-08-29 13:51:10,493 [INFO] HCLTech: 0 matching posting(s) found
+2026-08-29 13:51:11,514 [INFO] Tech Mahindra: 0 matching posting(s) found
+2026-08-29 13:51:12,532 [INFO] Deloitte Digital: 0 matching posting(s) found
+2026-08-29 13:51:13,553 [INFO] EPAM Systems: 0 matching posting(s) found
+2026-08-29 13:51:14,567 [INFO] Globant: 0 matching posting(s) found
+2026-08-29 13:51:15,578 [INFO] Thoughtworks: 0 matching posting(s) found
+2026-08-29 13:51:16,592 [INFO] Rivian: 0 matching posting(s) found
+2026-08-29 13:51:17,611 [INFO] Lucid Motors: 0 matching posting(s) found
+2026-08-29 13:51:18,634 [INFO] Waymo: 0 matching posting(s) found
+2026-08-29 13:51:19,653 [INFO] Zoox: 0 matching posting(s) found
+2026-08-29 13:51:20,673 [INFO] Anduril Industries: 0 matching posting(s) found
+2026-08-29 13:51:21,688 [INFO] AT&T: 0 matching posting(s) found
+2026-08-29 13:51:22,708 [INFO] Verizon: 0 matching posting(s) found
+2026-08-29 13:51:23,727 [INFO] T-Mobile: 0 matching posting(s) found
+2026-08-29 13:51:24,741 [INFO] Adyen: 0 matching posting(s) found
+2026-08-29 13:51:25,752 [INFO] Wise: 0 matching posting(s) found
+2026-08-29 13:51:26,775 [INFO] Revolut: 0 matching posting(s) found
+2026-08-29 13:51:27,789 [INFO] Klarna: 0 matching posting(s) found
+2026-08-29 13:51:28,805 [INFO] N26: 0 matching posting(s) found
+2026-08-29 13:51:29,828 [INFO] Nubank: 0 matching posting(s) found
+2026-08-29 13:51:30,842 [INFO] xAI: 0 matching posting(s) found
+2026-08-29 13:51:31,853 [INFO] Stability AI: 0 matching posting(s) found
+2026-08-29 13:51:32,868 [INFO] Inflection AI: 0 matching posting(s) found
+2026-08-29 13:51:33,885 [INFO] Adept AI: 0 matching posting(s) found
+2026-08-29 13:51:34,894 [INFO] Netlify: 0 matching posting(s) found
+2026-08-29 13:51:36,143 [INFO] Celonis: 0 matching posting(s) found
+2026-08-29 13:51:37,310 [INFO] Anaplan: 0 matching posting(s) found
+2026-08-29 13:51:38,359 [INFO] Workato: 0 matching posting(s) found
+2026-08-29 13:51:38,496 [INFO] Total new matches this run: 1
+2026-08-29 13:51:38,623 [ERROR] Failed to send email: [Errno 11001] getaddrinfo failed
+2026-08-30 00:56:12,133 [INFO] Google: 0 matching posting(s) found
+2026-08-30 00:56:13,945 [INFO] Microsoft: 0 matching posting(s) found
+2026-08-30 00:56:16,667 [INFO] Amazon: 0 matching posting(s) found
+2026-08-30 00:56:19,568 [INFO] Apple: 1 matching posting(s) found
+2026-08-30 00:58:50,469 [INFO] Google: static scrape found nothing, trying headless render...
+2026-08-30 00:58:57,510 [INFO] Google: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 00:58:59,381 [INFO] Microsoft: static scrape found nothing, trying headless render...
+2026-08-30 00:59:34,554 [INFO] Microsoft: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 00:59:37,233 [INFO] Amazon: static scrape found nothing, trying headless render...
+2026-08-30 00:59:44,626 [INFO] Amazon: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 00:59:48,182 [INFO] Apple: 1 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 00:59:52,243 [INFO] Meta: static scrape found nothing, trying headless render...
+2026-08-30 00:59:57,289 [INFO] Meta: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 00:59:59,650 [INFO] Netflix: static scrape found nothing, trying headless render...
+2026-08-30 01:34:43,787 [INFO] Google: static scrape found nothing, trying headless render...
+2026-08-30 01:34:49,865 [INFO] Google: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 01:34:51,713 [INFO] Microsoft: static scrape found nothing, trying headless render...
+2026-08-30 01:40:25,918 [INFO] Google: static scrape found nothing, trying headless render...
+2026-08-30 01:40:38,703 [INFO] Google: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 01:40:40,358 [INFO] Microsoft: static scrape found nothing, trying headless render...
+2026-08-30 01:40:51,166 [INFO] Microsoft: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 01:40:53,963 [INFO] Amazon: static scrape found nothing, trying headless render...
+2026-08-30 01:45:19,543 [INFO] Google: static scrape found nothing, trying headless render...
+2026-08-30 01:45:31,954 [INFO] Google: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 01:45:33,883 [INFO] Microsoft: static scrape found nothing, trying headless render...
+2026-08-30 01:45:44,887 [INFO] Microsoft: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 01:45:47,651 [INFO] Amazon: static scrape found nothing, trying headless render...
+2026-08-30 01:45:59,644 [INFO] Amazon: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 01:50:24,733 [INFO] Google: static scrape found nothing, trying headless render...
+2026-08-30 01:50:37,590 [INFO] Google: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 01:50:39,259 [INFO] Microsoft: static scrape found nothing, trying headless render...
+2026-08-30 01:50:50,111 [INFO] Microsoft: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 01:50:52,863 [INFO] Amazon: static scrape found nothing, trying headless render...
+2026-08-30 01:51:05,055 [INFO] Amazon: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 01:51:07,648 [INFO] Apple: 1 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 01:51:09,507 [INFO] Meta: static scrape found nothing, trying headless render...
+2026-08-30 01:51:21,009 [INFO] Meta: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 01:51:23,675 [INFO] Netflix: static scrape found nothing, trying headless render...
+2026-08-30 01:52:33,446 [INFO] Google: static scrape found nothing, trying headless render...
+2026-08-30 01:52:46,606 [INFO] Google: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 01:52:48,160 [INFO] Microsoft: static scrape found nothing, trying headless render...
+2026-08-30 01:52:59,099 [INFO] Microsoft: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 01:53:01,974 [INFO] Amazon: static scrape found nothing, trying headless render...
+2026-08-30 01:53:13,949 [INFO] Amazon: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 01:53:16,463 [INFO] Apple: 1 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 01:53:18,630 [INFO] Meta: static scrape found nothing, trying headless render...
+2026-08-30 01:53:29,746 [INFO] Meta: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 01:53:31,925 [INFO] Netflix: static scrape found nothing, trying headless render...
+2026-08-30 01:53:42,987 [INFO] Netflix: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 01:53:44,273 [INFO] Oracle: static scrape found nothing, trying headless render...
+2026-08-30 01:53:54,982 [INFO] Oracle: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 01:53:58,550 [INFO] SAP: static scrape found nothing, trying headless render...
+2026-08-30 01:54:12,382 [INFO] SAP: 1 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 01:54:14,712 [INFO] IBM: static scrape found nothing, trying headless render...
+2026-08-30 01:54:28,089 [INFO] IBM: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 01:54:30,930 [INFO] Salesforce: static scrape found nothing, trying headless render...
+2026-08-30 01:54:41,364 [INFO] Salesforce: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 01:54:44,115 [INFO] Adobe: static scrape found nothing, trying headless render...
+2026-08-30 01:54:58,068 [INFO] Adobe: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 01:55:00,810 [INFO] Cisco: static scrape found nothing, trying headless render...
+2026-08-30 01:55:12,698 [INFO] Cisco: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 01:55:13,791 [INFO] VMware (Broadcom): static scrape found nothing, trying headless render...
+2026-08-30 01:55:13,928 [WARNING] Failed scraping VMware (Broadcom) (https://careers.broadcom.com): net::ERR_NAME_NOT_RESOLVED at https://careers.broadcom.com/
+=========================== logs ===========================
+navigating to "https://careers.broadcom.com/", waiting until "domcontentloaded"
+============================================================
+2026-08-30 01:55:13,928 [INFO] VMware (Broadcom): 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 01:55:15,233 [INFO] ServiceNow: static scrape found nothing, trying headless render...
+2026-08-30 01:55:26,876 [INFO] ServiceNow: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 01:55:29,087 [INFO] Workday: static scrape found nothing, trying headless render...
+2026-08-30 01:55:40,044 [INFO] Workday: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 01:55:42,009 [INFO] Intuit: 1 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 01:55:43,467 [INFO] PayPal: static scrape found nothing, trying headless render...
+2026-08-30 01:55:59,450 [INFO] PayPal: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 01:56:00,922 [INFO] Block: static scrape found nothing, trying headless render...
+2026-08-30 01:56:01,128 [WARNING] Failed scraping Block (https://block.xyz/careers): net::ERR_NAME_NOT_RESOLVED at https://block.xyz/careers
+=========================== logs ===========================
+navigating to "https://block.xyz/careers", waiting until "domcontentloaded"
+============================================================
+2026-08-30 01:56:01,128 [INFO] Block: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 01:56:02,470 [INFO] Snap Inc: 1 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 01:56:04,092 [INFO] LinkedIn: static scrape found nothing, trying headless render...
+2026-08-30 01:56:14,725 [INFO] LinkedIn: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 01:56:16,415 [INFO] X (Twitter): static scrape found nothing, trying headless render...
+2026-08-30 01:56:28,664 [INFO] X (Twitter): 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 01:56:31,459 [INFO] Zoom: static scrape found nothing, trying headless render...
+2026-08-30 01:56:42,936 [INFO] Zoom: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 01:56:44,359 [INFO] Atlassian: static scrape found nothing, trying headless render...
+2026-08-30 01:56:55,450 [INFO] Atlassian: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 01:56:58,066 [INFO] Slack: 1 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 01:57:01,367 [INFO] Anthropic: 8 matching posting(s) (dropped 9 for exceeding 1 yr experience cap)
+2026-08-30 01:57:02,576 [INFO] OpenAI: static scrape found nothing, trying headless render...
+2026-08-30 01:57:13,243 [INFO] OpenAI: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 01:57:14,709 [INFO] Scale AI: 1 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 01:57:16,771 [INFO] Hugging Face: static scrape found nothing, trying headless render...
+2026-08-30 01:57:28,269 [INFO] Hugging Face: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 01:57:30,539 [INFO] Cohere: 2 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 01:57:32,862 [INFO] Mistral AI: static scrape found nothing, trying headless render...
+2026-08-30 01:57:43,853 [INFO] Mistral AI: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 01:57:45,334 [INFO] Perplexity AI: static scrape found nothing, trying headless render...
+2026-08-30 01:57:56,793 [INFO] Perplexity AI: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 01:57:59,035 [INFO] Runway: static scrape found nothing, trying headless render...
+2026-08-30 01:58:09,848 [INFO] Runway: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 01:58:11,536 [INFO] Character.AI: static scrape found nothing, trying headless render...
+2026-08-30 01:58:22,408 [INFO] Character.AI: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 01:58:23,859 [INFO] Together AI: 3 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 01:58:27,713 [INFO] Weights & Biases: 8 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 01:58:30,158 [INFO] Pinecone: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 01:58:32,302 [INFO] Modal: static scrape found nothing, trying headless render...
+2026-08-30 01:58:44,716 [INFO] Modal: 2 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 01:58:46,269 [INFO] LangChain: 1 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 01:58:47,551 [INFO] Replit: static scrape found nothing, trying headless render...
+2026-08-30 01:58:57,461 [INFO] Replit: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 01:58:59,003 [INFO] Supabase: 2 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 01:59:01,305 [INFO] Neon: 1 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 01:59:03,186 [INFO] PlanetScale: 5 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 01:59:06,039 [INFO] Stripe: 31 matching posting(s) (dropped 15 for exceeding 1 yr experience cap)
+2026-08-30 01:59:08,110 [INFO] Coinbase: 6 matching posting(s) (dropped 3 for exceeding 1 yr experience cap)
+2026-08-30 01:59:10,247 [INFO] Robinhood: 4 matching posting(s) (dropped 3 for exceeding 1 yr experience cap)
+2026-08-30 01:59:11,743 [WARNING] Failed scraping Plaid (https://boards.greenhouse.io/plaid): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/plaid/jobs?content=true
+2026-08-30 01:59:11,744 [INFO] Plaid: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 01:59:13,880 [INFO] Brex: 9 matching posting(s) (dropped 4 for exceeding 1 yr experience cap)
+2026-08-30 01:59:15,491 [WARNING] Failed scraping Ramp (https://boards.greenhouse.io/ramp): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/ramp/jobs?content=true
+2026-08-30 01:59:15,492 [INFO] Ramp: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 01:59:17,559 [INFO] Chime: 8 matching posting(s) (dropped 1 for exceeding 1 yr experience cap)
+2026-08-30 01:59:19,780 [INFO] Affirm: 6 matching posting(s) (dropped 18 for exceeding 1 yr experience cap)
+2026-08-30 01:59:21,659 [INFO] Carta: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 01:59:23,610 [INFO] Gusto: 3 matching posting(s) (dropped 1 for exceeding 1 yr experience cap)
+2026-08-30 01:59:25,063 [INFO] Remote: static scrape found nothing, trying headless render...
+2026-08-30 01:59:35,381 [INFO] Remote: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 01:59:37,131 [INFO] Deel: static scrape found nothing, trying headless render...
+2026-08-30 01:59:48,060 [INFO] Deel: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 01:59:49,703 [INFO] Rippling: static scrape found nothing, trying headless render...
+2026-08-30 02:00:00,479 [INFO] Rippling: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:00:01,691 [INFO] Kraken: static scrape found nothing, trying headless render...
+2026-08-30 02:00:02,157 [WARNING] Failed scraping Kraken (https://www.kraken.com/careers): net::ERR_CONNECTION_RESET at https://www.kraken.com/careers
+=========================== logs ===========================
+navigating to "https://www.kraken.com/careers", waiting until "domcontentloaded"
+============================================================
+2026-08-30 02:00:02,158 [INFO] Kraken: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:00:03,409 [INFO] Gemini: static scrape found nothing, trying headless render...
+2026-08-30 02:00:03,800 [WARNING] Failed scraping Gemini (https://www.gemini.com/careers): net::ERR_CONNECTION_RESET at https://www.gemini.com/careers
+=========================== logs ===========================
+navigating to "https://www.gemini.com/careers", waiting until "domcontentloaded"
+============================================================
+2026-08-30 02:00:03,801 [INFO] Gemini: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:00:07,290 [INFO] Circle: static scrape found nothing, trying headless render...
+2026-08-30 02:00:19,164 [INFO] Circle: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:00:21,427 [INFO] Ripple: static scrape found nothing, trying headless render...
+2026-08-30 02:00:33,052 [INFO] Ripple: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:00:34,535 [INFO] Visa: static scrape found nothing, trying headless render...
+2026-08-30 02:00:45,737 [INFO] Visa: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:00:47,944 [INFO] Mastercard: static scrape found nothing, trying headless render...
+2026-08-30 02:00:59,496 [INFO] Mastercard: 2 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:01:00,932 [INFO] American Express: static scrape found nothing, trying headless render...
+2026-08-30 02:01:13,230 [INFO] American Express: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:01:14,601 [INFO] Goldman Sachs: static scrape found nothing, trying headless render...
+2026-08-30 02:01:25,307 [INFO] Goldman Sachs: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:01:26,610 [INFO] JPMorgan Chase: static scrape found nothing, trying headless render...
+2026-08-30 02:01:39,663 [INFO] JPMorgan Chase: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:01:56,109 [INFO] Morgan Stanley: static scrape found nothing, trying headless render...
+2026-08-30 02:01:56,432 [WARNING] Failed scraping Morgan Stanley (https://www.morganstanley.com/careers): net::ERR_HTTP2_PROTOCOL_ERROR at https://www.morganstanley.com/careers
+=========================== logs ===========================
+navigating to "https://www.morganstanley.com/careers", waiting until "domcontentloaded"
+============================================================
+2026-08-30 02:01:56,433 [INFO] Morgan Stanley: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:01:58,112 [INFO] Capital One: static scrape found nothing, trying headless render...
+2026-08-30 02:02:10,664 [INFO] Capital One: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:02:13,100 [INFO] Bloomberg: static scrape found nothing, trying headless render...
+2026-08-30 02:02:24,100 [INFO] Bloomberg: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:02:27,070 [INFO] Cloudflare: 14 matching posting(s) (dropped 1 for exceeding 1 yr experience cap)
+2026-08-30 02:02:28,911 [INFO] Vercel: 7 matching posting(s) (dropped 8 for exceeding 1 yr experience cap)
+2026-08-30 02:02:31,029 [INFO] Twilio: 6 matching posting(s) (dropped 9 for exceeding 1 yr experience cap)
+2026-08-30 02:02:33,938 [INFO] Datadog: 2 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:02:35,421 [WARNING] Failed scraping Snowflake (https://boards.greenhouse.io/snowflake): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/snowflake/jobs?content=true
+2026-08-30 02:02:35,421 [INFO] Snowflake: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:02:38,994 [INFO] Databricks: 17 matching posting(s) (dropped 2 for exceeding 1 yr experience cap)
+2026-08-30 02:02:41,504 [INFO] GitLab: 9 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:02:45,421 [INFO] MongoDB: 1 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:02:47,695 [INFO] Elastic: 2 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:02:49,096 [INFO] Confluent: static scrape found nothing, trying headless render...
+2026-08-30 02:02:59,151 [INFO] Confluent: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:03:00,552 [INFO] Docker: 1 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:03:02,053 [INFO] HashiCorp: static scrape found nothing, trying headless render...
+2026-08-30 02:03:13,059 [INFO] HashiCorp: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:03:14,574 [INFO] JetBrains: static scrape found nothing, trying headless render...
+2026-08-30 02:03:25,959 [INFO] JetBrains: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:03:31,864 [INFO] GitHub: static scrape found nothing, trying headless render...
+2026-08-30 02:03:44,126 [INFO] GitHub: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:03:45,766 [INFO] Red Hat: 1 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:03:48,425 [INFO] Canonical: 1 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:03:50,851 [INFO] Postman: 2 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:03:52,245 [INFO] BrowserStack: static scrape found nothing, trying headless render...
+2026-08-30 02:04:02,623 [INFO] BrowserStack: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:04:05,081 [INFO] Sentry: 1 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:04:07,003 [INFO] Grafana Labs: static scrape found nothing, trying headless render...
+2026-08-30 02:04:19,402 [INFO] Grafana Labs: 1 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:04:20,834 [INFO] LaunchDarkly: 2 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:04:22,646 [INFO] Render: 11 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:04:25,278 [INFO] Fly.io: static scrape found nothing, trying headless render...
+2026-08-30 02:04:38,308 [INFO] Fly.io: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:04:40,544 [INFO] Cockroach Labs: static scrape found nothing, trying headless render...
+2026-08-30 02:04:51,657 [INFO] Cockroach Labs: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:04:53,331 [INFO] Redis: 1 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:04:55,465 [INFO] Temporal: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:04:56,857 [INFO] Neo4j: 8 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:04:58,374 [INFO] Couchbase: static scrape found nothing, trying headless render...
+2026-08-30 02:05:08,234 [INFO] Couchbase: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:05:11,147 [INFO] DigitalOcean: static scrape found nothing, trying headless render...
+2026-08-30 02:05:15,625 [WARNING] Playwright not installed — headless-browser fallback disabled for this run. To enable it: pip install playwright && playwright install chromium
+2026-08-30 02:05:21,895 [INFO] DigitalOcean: 2 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:05:23,267 [INFO] Akamai: static scrape found nothing, trying headless render...
+2026-08-30 02:05:33,353 [INFO] Akamai: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:05:34,875 [INFO] Fastly: 2 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:05:37,156 [INFO] Equinix: 2 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:05:39,079 [INFO] Notion: 15 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:05:41,181 [INFO] Figma: 9 matching posting(s) (dropped 9 for exceeding 1 yr experience cap)
+2026-08-30 02:05:42,716 [INFO] Airtable: 2 matching posting(s) (dropped 1 for exceeding 1 yr experience cap)
+2026-08-30 02:05:45,338 [INFO] Miro: static scrape found nothing, trying headless render...
+2026-08-30 02:05:57,445 [INFO] Miro: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:05:58,800 [INFO] Canva: static scrape found nothing, trying headless render...
+2026-08-30 02:06:11,560 [INFO] Canva: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:06:13,400 [INFO] Asana: static scrape found nothing, trying headless render...
+2026-08-30 02:06:24,545 [INFO] Asana: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:06:25,822 [WARNING] Playwright not installed — headless-browser fallback disabled for this run. To enable it: pip install playwright && playwright install chromium
+2026-08-30 02:06:27,661 [INFO] Monday.com: static scrape found nothing, trying headless render...
+2026-08-30 02:06:39,874 [INFO] Monday.com: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:06:54,463 [INFO] ClickUp: static scrape found nothing, trying headless render...
+2026-08-30 02:07:05,429 [INFO] ClickUp: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:07:09,891 [INFO] Coda: static scrape found nothing, trying headless render...
+2026-08-30 02:07:22,672 [INFO] Coda: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:07:24,544 [INFO] Webflow: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:07:26,066 [WARNING] Failed scraping Retool (https://boards.greenhouse.io/retool): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/retool/jobs?content=true
+2026-08-30 02:07:26,066 [INFO] Retool: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:07:28,028 [INFO] Linear: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:07:29,806 [INFO] Dropbox: 2 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:07:31,139 [INFO] Box: static scrape found nothing, trying headless render...
+2026-08-30 02:07:41,132 [INFO] Box: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:07:44,466 [INFO] Grammarly: static scrape found nothing, trying headless render...
+2026-08-30 02:07:56,594 [INFO] Grammarly: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:07:58,508 [INFO] Calendly: 4 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:08:00,363 [INFO] Typeform: 2 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:08:01,871 [INFO] Zapier: 2 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:08:03,595 [INFO] HubSpot: 1 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:08:06,107 [INFO] Zendesk: 1 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:08:08,906 [INFO] Amplitude: static scrape found nothing, trying headless render...
+2026-08-30 02:08:15,446 [WARNING] Playwright not installed — headless-browser fallback disabled for this run. To enable it: pip install playwright && playwright install chromium
+2026-08-30 02:08:18,255 [INFO] Google (India - Software): 1 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:08:20,763 [INFO] Amplitude: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:08:21,511 [INFO] Microsoft (India - Software): 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:08:23,978 [INFO] Mixpanel: static scrape found nothing, trying headless render...
+2026-08-30 02:08:23,988 [INFO] Amazon (India - Software): 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:08:26,738 [INFO] Apple (India - Software): 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:08:28,913 [INFO] Meta (India - Software): 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:08:30,940 [INFO] Netflix (India - Software): 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:08:32,853 [INFO] Salesforce (India - Software): 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:08:34,909 [INFO] Adobe (India - Software): 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:08:35,680 [INFO] Mixpanel: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:08:37,571 [INFO] Braze: static scrape found nothing, trying headless render...
+2026-08-30 02:08:39,233 [INFO] Google (India - AI/ML): 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:08:43,760 [INFO] Microsoft (India - AI/ML): 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:08:46,155 [INFO] Amazon (India - AI/ML): 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:08:48,150 [INFO] Braze: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:08:48,780 [INFO] Apple (India - AI/ML): 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:08:49,658 [INFO] Iterable: static scrape found nothing, trying headless render...
+2026-08-30 02:08:51,059 [INFO] Meta (India - AI/ML): 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:08:52,865 [INFO] Netflix (India - AI/ML): 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:09:01,400 [INFO] Iterable: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:09:03,866 [INFO] Klaviyo: 2 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:09:05,448 [INFO] Statsig: static scrape found nothing, trying headless render...
+2026-08-30 02:09:16,046 [INFO] Statsig: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:09:18,741 [INFO] Okta: 3 matching posting(s) (dropped 1 for exceeding 1 yr experience cap)
+2026-08-30 02:09:21,196 [INFO] CrowdStrike: static scrape found nothing, trying headless render...
+2026-08-30 02:09:32,312 [INFO] CrowdStrike: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:09:34,597 [INFO] Palo Alto Networks: 7 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:09:36,787 [INFO] Zscaler: 1 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:09:39,719 [INFO] Fortinet: 2 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:09:41,295 [INFO] SentinelOne: static scrape found nothing, trying headless render...
+2026-08-30 02:09:51,984 [INFO] SentinelOne: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:09:55,220 [INFO] Rapid7: static scrape found nothing, trying headless render...
+2026-08-30 02:10:07,594 [INFO] Rapid7: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:10:08,853 [INFO] Tenable: static scrape found nothing, trying headless render...
+2026-08-30 02:10:19,844 [INFO] Tenable: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:10:21,367 [INFO] Snyk: 1 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:10:22,936 [INFO] Wiz: static scrape found nothing, trying headless render...
+2026-08-30 02:10:33,753 [INFO] Wiz: 5 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:10:35,740 [INFO] Netskope: 2 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:10:37,152 [INFO] 1Password: static scrape found nothing, trying headless render...
+2026-08-30 02:10:47,902 [INFO] 1Password: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:10:49,943 [INFO] Darktrace: static scrape found nothing, trying headless render...
+2026-08-30 02:11:01,543 [INFO] Darktrace: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:11:02,868 [INFO] Shopify: static scrape found nothing, trying headless render...
+2026-08-30 02:11:13,189 [INFO] Shopify: 1 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:11:14,550 [INFO] Etsy: static scrape found nothing, trying headless render...
+2026-08-30 02:11:25,164 [INFO] Etsy: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:11:27,022 [INFO] Faire: 1 matching posting(s) (dropped 1 for exceeding 1 yr experience cap)
+2026-08-30 02:11:28,292 [INFO] Whatnot: static scrape found nothing, trying headless render...
+2026-08-30 02:11:35,016 [WARNING] Playwright not installed — headless-browser fallback disabled for this run. To enable it: pip install playwright && playwright install chromium
+2026-08-30 02:11:37,863 [INFO] Google (India - Software): 1 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:11:40,817 [INFO] Whatnot: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:11:42,230 [INFO] StockX: static scrape found nothing, trying headless render...
+2026-08-30 02:11:42,876 [INFO] Microsoft (India - Software): 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:11:45,273 [INFO] Amazon (India - Software): 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:11:52,299 [INFO] StockX: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:11:53,354 [INFO] Poshmark: static scrape found nothing, trying headless render...
+2026-08-30 02:11:53,495 [WARNING] Failed scraping Poshmark (https://careers.poshmark.com): net::ERR_NAME_NOT_RESOLVED at https://careers.poshmark.com/
+=========================== logs ===========================
+navigating to "https://careers.poshmark.com/", waiting until "domcontentloaded"
+============================================================
+2026-08-30 02:11:53,495 [INFO] Poshmark: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:11:57,072 [INFO] ThredUp: static scrape found nothing, trying headless render...
+2026-08-30 02:12:11,113 [INFO] ThredUp: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:12:13,132 [INFO] Rent the Runway: static scrape found nothing, trying headless render...
+2026-08-30 02:12:23,374 [INFO] Rent the Runway: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:12:25,549 [INFO] Wayfair: 2 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:12:28,399 [INFO] Chewy: 4 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:12:30,860 [INFO] BigCommerce: static scrape found nothing, trying headless render...
+2026-08-30 02:12:41,941 [INFO] BigCommerce: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:12:45,631 [INFO] Squarespace: 3 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:12:48,410 [INFO] Wix: static scrape found nothing, trying headless render...
+2026-08-30 02:12:59,674 [INFO] Wix: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:13:01,428 [INFO] GoDaddy: static scrape found nothing, trying headless render...
+2026-08-30 02:13:12,057 [INFO] GoDaddy: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:13:13,862 [INFO] Automattic: static scrape found nothing, trying headless render...
+2026-08-30 02:13:25,042 [INFO] Automattic: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:13:26,729 [WARNING] Failed scraping DoorDash (https://boards.greenhouse.io/doordash): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/doordash/jobs?content=true
+2026-08-30 02:13:26,730 [INFO] DoorDash: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:13:28,722 [INFO] Instacart: 2 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:13:30,202 [WARNING] Failed scraping Uber (https://boards.greenhouse.io/uber): 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/uber/jobs?content=true
+2026-08-30 02:13:30,202 [INFO] Uber: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:13:32,450 [INFO] Lyft: 17 matching posting(s) (dropped 2 for exceeding 1 yr experience cap)
+2026-08-30 02:13:34,714 [INFO] Airbnb: 1 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:13:36,591 [INFO] Grubhub: 1 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:13:37,878 [INFO] Gopuff: static scrape found nothing, trying headless render...
+2026-08-30 02:13:47,858 [INFO] Gopuff: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:13:49,406 [INFO] Turo: static scrape found nothing, trying headless render...
+2026-08-30 02:13:59,420 [INFO] Turo: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:14:01,569 [INFO] Getaround: static scrape found nothing, trying headless render...
+2026-08-30 02:14:12,563 [INFO] Getaround: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:14:14,143 [INFO] Lime: static scrape found nothing, trying headless render...
+2026-08-30 02:14:24,557 [INFO] Lime: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:14:26,907 [INFO] Booking.com: static scrape found nothing, trying headless render...
+2026-08-30 02:14:37,352 [INFO] Booking.com: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:14:39,195 [INFO] Expedia Group: static scrape found nothing, trying headless render...
+2026-08-30 02:14:50,702 [INFO] Expedia Group: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:14:53,406 [INFO] TripAdvisor: static scrape found nothing, trying headless render...
+2026-08-30 02:15:05,889 [INFO] TripAdvisor: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:15:22,265 [INFO] Roblox: static scrape found nothing, trying headless render...
+2026-08-30 02:15:22,782 [WARNING] Failed scraping Roblox (https://careers.roblox.com): net::ERR_HTTP2_PROTOCOL_ERROR at https://careers.roblox.com/
+=========================== logs ===========================
+navigating to "https://careers.roblox.com/", waiting until "domcontentloaded"
+============================================================
+2026-08-30 02:15:22,782 [INFO] Roblox: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:15:24,291 [WARNING] Playwright not installed — headless-browser fallback disabled for this run. To enable it: pip install playwright && playwright install chromium
+2026-08-30 02:15:25,184 [INFO] Unity Technologies: 1 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:15:26,400 [INFO] Epic Games: static scrape found nothing, trying headless render...
+2026-08-30 02:15:27,517 [INFO] Google (India - Software): 1 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:15:32,049 [INFO] Microsoft (India - Software): 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:15:34,410 [INFO] Amazon (India - Software): 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:15:40,908 [INFO] Epic Games: 1 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:15:43,237 [INFO] Electronic Arts: static scrape found nothing, trying headless render...
+2026-08-30 02:15:43,654 [WARNING] Failed scraping Electronic Arts (https://www.ea.com/careers): net::ERR_HTTP2_PROTOCOL_ERROR at https://www.ea.com/careers
+=========================== logs ===========================
+navigating to "https://www.ea.com/careers", waiting until "domcontentloaded"
+============================================================
+2026-08-30 02:15:43,654 [INFO] Electronic Arts: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:15:46,298 [INFO] Activision Blizzard: static scrape found nothing, trying headless render...
+2026-08-30 02:15:58,269 [INFO] Activision Blizzard: 1 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:16:00,181 [INFO] Riot Games: 4 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:16:01,562 [INFO] Zynga: static scrape found nothing, trying headless render...
+2026-08-30 02:16:02,229 [WARNING] Failed scraping Zynga (https://www.zynga.com/careers/): net::ERR_CONNECTION_RESET at https://www.zynga.com/careers/
+=========================== logs ===========================
+navigating to "https://www.zynga.com/careers/", waiting until "domcontentloaded"
+============================================================
+2026-08-30 02:16:02,230 [INFO] Zynga: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:16:04,653 [INFO] Valve: 7 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:16:09,638 [INFO] Niantic: static scrape found nothing, trying headless render...
+2026-08-30 02:16:23,801 [INFO] Niantic: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:16:26,169 [INFO] Spotify: static scrape found nothing, trying headless render...
+2026-08-30 02:16:37,745 [INFO] Spotify: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:16:40,179 [INFO] SoundCloud: static scrape found nothing, trying headless render...
+2026-08-30 02:16:51,451 [INFO] SoundCloud: 1 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:16:53,670 [INFO] Discord: 3 matching posting(s) (dropped 1 for exceeding 1 yr experience cap)
+2026-08-30 02:16:56,418 [INFO] Twitch: static scrape found nothing, trying headless render...
+2026-08-30 02:17:09,173 [INFO] Twitch: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:17:11,781 [INFO] Zillow: static scrape found nothing, trying headless render...
+2026-08-30 02:17:21,952 [INFO] Zillow: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:17:26,357 [INFO] Redfin: static scrape found nothing, trying headless render...
+2026-08-30 02:17:36,562 [INFO] Redfin: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:17:38,946 [INFO] Compass: static scrape found nothing, trying headless render...
+2026-08-30 02:17:50,514 [INFO] Compass: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:17:53,949 [INFO] Opendoor: static scrape found nothing, trying headless render...
+2026-08-30 02:18:04,008 [INFO] Opendoor: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:18:07,200 [INFO] Procore: static scrape found nothing, trying headless render...
+2026-08-30 02:18:19,444 [INFO] Procore: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:18:20,753 [INFO] CoStar Group: static scrape found nothing, trying headless render...
+2026-08-30 02:18:20,924 [WARNING] Failed scraping CoStar Group (https://www.costargroup.com/careers): net::ERR_NAME_NOT_RESOLVED at https://www.costargroup.com/careers
+=========================== logs ===========================
+navigating to "https://www.costargroup.com/careers", waiting until "domcontentloaded"
+============================================================
+2026-08-30 02:18:20,924 [INFO] CoStar Group: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:18:23,588 [INFO] Oscar Health: static scrape found nothing, trying headless render...
+2026-08-30 02:18:36,178 [INFO] Oscar Health: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:18:37,500 [INFO] Ro: static scrape found nothing, trying headless render...
+2026-08-30 02:18:47,640 [INFO] Ro: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:18:48,987 [INFO] Hims & Hers: static scrape found nothing, trying headless render...
+2026-08-30 02:18:58,807 [INFO] Hims & Hers: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:19:01,995 [INFO] Included Health: 3 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:19:05,248 [INFO] Teladoc Health: static scrape found nothing, trying headless render...
+2026-08-30 02:19:16,291 [INFO] Teladoc Health: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:19:18,005 [INFO] GoodRx: static scrape found nothing, trying headless render...
+2026-08-30 02:19:28,233 [INFO] GoodRx: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:19:30,400 [INFO] Doximity: static scrape found nothing, trying headless render...
+2026-08-30 02:19:42,884 [INFO] Doximity: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:19:44,418 [INFO] Tempus: static scrape found nothing, trying headless render...
+2026-08-30 02:20:00,327 [INFO] Tempus: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:20:02,606 [INFO] Flatiron Health: 1 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:20:04,647 [INFO] Devoted Health: static scrape found nothing, trying headless render...
+2026-08-30 02:20:10,802 [WARNING] Playwright not installed — headless-browser fallback disabled for this run. To enable it: pip install playwright && playwright install chromium
+2026-08-30 02:20:15,589 [INFO] Devoted Health: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:20:15,622 [INFO] Google (India - Software): 1 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:20:17,498 [INFO] Coursera: static scrape found nothing, trying headless render...
+2026-08-30 02:20:21,266 [INFO] Microsoft (India - Software): 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:20:24,727 [INFO] Amazon (India - Software): 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:20:28,181 [INFO] Apple (India - Software): 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:20:28,509 [INFO] Coursera: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:20:29,717 [INFO] Udemy: static scrape found nothing, trying headless render...
+2026-08-30 02:20:41,435 [INFO] Udemy: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:20:43,226 [INFO] Duolingo: 1 matching posting(s) (dropped 1 for exceeding 1 yr experience cap)
+2026-08-30 02:20:44,856 [INFO] Chegg: static scrape found nothing, trying headless render...
+2026-08-30 02:20:54,817 [INFO] Chegg: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:20:56,239 [INFO] Khan Academy: static scrape found nothing, trying headless render...
+2026-08-30 02:21:06,239 [INFO] Khan Academy: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:21:08,730 [INFO] 2U: static scrape found nothing, trying headless render...
+2026-08-30 02:21:19,845 [INFO] 2U: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:21:21,344 [INFO] Chainalysis: static scrape found nothing, trying headless render...
+2026-08-30 02:21:32,673 [INFO] Chainalysis: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:21:34,225 [INFO] Anchorage Digital: static scrape found nothing, trying headless render...
+2026-08-30 02:21:45,310 [INFO] Anchorage Digital: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:21:46,539 [INFO] BitGo: static scrape found nothing, trying headless render...
+2026-08-30 02:21:47,015 [WARNING] Failed scraping BitGo (https://www.bitgo.com/careers/): net::ERR_CONNECTION_RESET at https://www.bitgo.com/careers/
+=========================== logs ===========================
+navigating to "https://www.bitgo.com/careers/", waiting until "domcontentloaded"
+============================================================
+2026-08-30 02:21:47,016 [INFO] BitGo: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:21:49,374 [INFO] OpenSea: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:21:51,256 [INFO] Consensys: static scrape found nothing, trying headless render...
+2026-08-30 02:21:56,568 [WARNING] Playwright not installed — headless-browser fallback disabled for this run. To enable it: pip install playwright && playwright install chromium
+2026-08-30 02:22:01,010 [INFO] Google (India - Software): 1 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:22:02,702 [INFO] Consensys: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:22:05,596 [INFO] Flexport: static scrape found nothing, trying headless render...
+2026-08-30 02:22:07,330 [INFO] Microsoft (India - Software): 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:22:17,652 [INFO] Flexport: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:22:20,065 [INFO] Samsara: 4 matching posting(s) (dropped 2 for exceeding 1 yr experience cap)
+2026-08-30 02:22:23,250 [INFO] project44: static scrape found nothing, trying headless render...
+2026-08-30 02:22:36,402 [INFO] project44: 1 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:22:39,032 [INFO] FourKites: 4 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:22:40,477 [INFO] NVIDIA: 2 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:22:44,430 [INFO] AMD: 1 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:22:45,913 [INFO] Intel: static scrape found nothing, trying headless render...
+2026-08-30 02:22:46,083 [WARNING] Failed scraping Intel (https://jobs.intel.com): net::ERR_NAME_NOT_RESOLVED at https://jobs.intel.com/
+=========================== logs ===========================
+navigating to "https://jobs.intel.com/", waiting until "domcontentloaded"
+============================================================
+2026-08-30 02:22:46,083 [INFO] Intel: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:22:47,369 [INFO] Qualcomm: static scrape found nothing, trying headless render...
+2026-08-30 02:22:57,468 [INFO] Qualcomm: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:22:58,774 [INFO] Texas Instruments: static scrape found nothing, trying headless render...
+2026-08-30 02:22:59,003 [WARNING] Failed scraping Texas Instruments (https://careers.ti.com): net::ERR_NAME_NOT_RESOLVED at https://careers.ti.com/
+=========================== logs ===========================
+navigating to "https://careers.ti.com/", waiting until "domcontentloaded"
+============================================================
+2026-08-30 02:22:59,003 [INFO] Texas Instruments: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:23:03,396 [INFO] Micron Technology: 1 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:23:05,046 [INFO] Western Digital: static scrape found nothing, trying headless render...
+2026-08-30 02:23:15,648 [INFO] Western Digital: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:23:17,476 [INFO] Seagate Technology: static scrape found nothing, trying headless render...
+2026-08-30 02:23:28,481 [INFO] Seagate Technology: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:23:29,981 [INFO] Arista Networks: static scrape found nothing, trying headless render...
+2026-08-30 02:23:40,124 [INFO] Arista Networks: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:23:46,177 [INFO] Juniper Networks: static scrape found nothing, trying headless render...
+2026-08-30 02:24:00,173 [INFO] Juniper Networks: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:24:01,690 [INFO] Tesla: static scrape found nothing, trying headless render...
+2026-08-30 02:24:11,717 [INFO] Tesla: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:24:13,076 [INFO] SpaceX: static scrape found nothing, trying headless render...
+2026-08-30 02:24:23,317 [INFO] SpaceX: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:24:24,707 [INFO] Workiva: static scrape found nothing, trying headless render...
+2026-08-30 02:24:34,705 [INFO] Workiva: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:24:36,321 [INFO] Smartsheet: 1 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:24:38,078 [INFO] UiPath: static scrape found nothing, trying headless render...
+2026-08-30 02:24:48,817 [INFO] UiPath: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:24:53,550 [INFO] Automation Anywhere: 1 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:24:56,818 [INFO] Blue Yonder: static scrape found nothing, trying headless render...
+2026-08-30 02:24:57,396 [INFO] Google (India - Software): 1 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:25:02,986 [INFO] Microsoft (India - Software): static scrape found nothing, trying headless render...
+2026-08-30 02:25:02,986 [WARNING] Failed scraping Microsoft (India - Software) (https://jobs.careers.microsoft.com/global/en/search?q=software&lc=India): fetch_with_playwright() takes from 2 to 3 positional arguments but 4 were given
+2026-08-30 02:25:02,986 [INFO] Microsoft (India - Software): 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:25:05,998 [INFO] Amazon (India - Software): static scrape found nothing, trying headless render...
+2026-08-30 02:25:05,998 [WARNING] Failed scraping Amazon (India - Software) (https://www.amazon.jobs/en/search?base_query=software&loc_query=India): fetch_with_playwright() takes from 2 to 3 positional arguments but 4 were given
+2026-08-30 02:25:05,999 [INFO] Amazon (India - Software): 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:25:08,898 [INFO] Blue Yonder: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:25:09,285 [INFO] Apple (India - Software): static scrape found nothing, trying headless render...
+2026-08-30 02:25:09,285 [WARNING] Failed scraping Apple (India - Software) (https://jobs.apple.com/en-in/search?search=software&location=india): fetch_with_playwright() takes from 2 to 3 positional arguments but 4 were given
+2026-08-30 02:25:09,285 [INFO] Apple (India - Software): 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:25:11,453 [INFO] Qualtrics: static scrape found nothing, trying headless render...
+2026-08-30 02:25:12,009 [INFO] Meta (India - Software): static scrape found nothing, trying headless render...
+2026-08-30 02:25:12,009 [WARNING] Failed scraping Meta (India - Software) (https://www.metacareers.com/jobs/?q=software&locations[0]=India): fetch_with_playwright() takes from 2 to 3 positional arguments but 4 were given
+2026-08-30 02:25:12,009 [INFO] Meta (India - Software): 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:25:14,459 [INFO] Netflix (India - Software): static scrape found nothing, trying headless render...
+2026-08-30 02:25:14,460 [WARNING] Failed scraping Netflix (India - Software) (https://jobs.netflix.com/search?q=software&location=India): fetch_with_playwright() takes from 2 to 3 positional arguments but 4 were given
+2026-08-30 02:25:14,460 [INFO] Netflix (India - Software): 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:25:17,445 [INFO] Salesforce (India - Software): static scrape found nothing, trying headless render...
+2026-08-30 02:25:17,445 [WARNING] Failed scraping Salesforce (India - Software) (https://careers.salesforce.com/en/jobs/?search=software&country=India): fetch_with_playwright() takes from 2 to 3 positional arguments but 4 were given
+2026-08-30 02:25:17,446 [INFO] Salesforce (India - Software): 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:25:19,864 [INFO] Adobe (India - Software): static scrape found nothing, trying headless render...
+2026-08-30 02:25:19,865 [WARNING] Failed scraping Adobe (India - Software) (https://careers.adobe.com/us/en/search-results?keywords=software&country=India): fetch_with_playwright() takes from 2 to 3 positional arguments but 4 were given
+2026-08-30 02:25:19,865 [INFO] Adobe (India - Software): 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:25:24,768 [INFO] Google (India - AI/ML): static scrape found nothing, trying headless render...
+2026-08-30 02:25:24,768 [WARNING] Failed scraping Google (India - AI/ML) (https://careers.google.com/jobs/results/?location=India&q=%22machine%20learning%22%20OR%20%22artificial%20intelligence%22): fetch_with_playwright() takes from 2 to 3 positional arguments but 4 were given
+2026-08-30 02:25:24,768 [INFO] Google (India - AI/ML): 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:25:25,551 [INFO] Qualtrics: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:25:27,338 [INFO] C3.ai: 1 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:25:29,805 [INFO] Nutanix: static scrape found nothing, trying headless render...
+2026-08-30 02:25:30,564 [INFO] Microsoft (India - AI/ML): static scrape found nothing, trying headless render...
+2026-08-30 02:25:30,565 [WARNING] Failed scraping Microsoft (India - AI/ML) (https://jobs.careers.microsoft.com/global/en/search?q=%22machine%20learning%22&lc=India): fetch_with_playwright() takes from 2 to 3 positional arguments but 4 were given
+2026-08-30 02:25:30,565 [INFO] Microsoft (India - AI/ML): 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:25:41,870 [INFO] Nutanix: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:25:43,189 [INFO] Pure Storage: static scrape found nothing, trying headless render...
+2026-08-30 02:25:43,347 [WARNING] Failed scraping Pure Storage (https://www.purestorage.com/careers.html): net::ERR_NAME_NOT_RESOLVED at https://www.purestorage.com/careers.html
+=========================== logs ===========================
+navigating to "https://www.purestorage.com/careers.html", waiting until "domcontentloaded"
+============================================================
+2026-08-30 02:25:43,347 [INFO] Pure Storage: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:25:45,389 [INFO] Splunk: static scrape found nothing, trying headless render...
+2026-08-30 02:25:57,024 [INFO] Splunk: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:25:59,439 [INFO] Cloudera: static scrape found nothing, trying headless render...
+2026-08-30 02:26:11,831 [INFO] Cloudera: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:26:14,743 [INFO] PagerDuty: static scrape found nothing, trying headless render...
+2026-08-30 02:26:26,276 [INFO] PagerDuty: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:26:28,974 [INFO] New Relic: static scrape found nothing, trying headless render...
+2026-08-30 02:26:30,142 [INFO] Google (India - Software): 1 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:26:36,375 [INFO] Microsoft (India - Software): static scrape found nothing, trying headless render...
+2026-08-30 02:26:36,631 [INFO] Playwright routing to https://jobs.careers.microsoft.com/global/en/search?q=software&lc=India...
+2026-08-30 02:26:41,293 [INFO] New Relic: 1 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:26:43,433 [INFO] Toast: static scrape found nothing, trying headless render...
+2026-08-30 02:26:53,729 [INFO] Toast: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:26:59,741 [INFO] DocuSign: static scrape found nothing, trying headless render...
+2026-08-30 02:27:11,205 [INFO] DocuSign: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:27:12,718 [INFO] Palantir Technologies: static scrape found nothing, trying headless render...
+2026-08-30 02:27:20,045 [WARNING] Failed scraping Microsoft (India - Software) (https://jobs.careers.microsoft.com/global/en/search?q=software&lc=India): string indices must be integers, not 'str'
+2026-08-30 02:27:20,045 [INFO] Microsoft (India - Software): 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:27:23,267 [INFO] Amazon (India - Software): static scrape found nothing, trying headless render...
+2026-08-30 02:27:23,338 [INFO] Playwright routing to https://www.amazon.jobs/en/search?base_query=software&loc_query=India...
+2026-08-30 02:27:24,227 [INFO] Palantir Technologies: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:27:25,681 [INFO] Freshworks: static scrape found nothing, trying headless render...
+2026-08-30 02:27:36,663 [INFO] Freshworks: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:27:38,244 [INFO] Zoho: static scrape found nothing, trying headless render...
+2026-08-30 02:27:49,758 [INFO] Zoho: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:27:51,190 [INFO] Chargebee: static scrape found nothing, trying headless render...
+2026-08-30 02:27:57,731 [WARNING] Failed scraping Amazon (India - Software) (https://www.amazon.jobs/en/search?base_query=software&loc_query=India): string indices must be integers, not 'str'
+2026-08-30 02:27:57,731 [INFO] Amazon (India - Software): 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:28:01,137 [INFO] Apple (India - Software): static scrape found nothing, trying headless render...
+2026-08-30 02:28:01,233 [INFO] Playwright routing to https://jobs.apple.com/en-in/search?search=software&location=india...
+2026-08-30 02:28:01,815 [INFO] Chargebee: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:28:03,407 [INFO] Razorpay: static scrape found nothing, trying headless render...
+2026-08-30 02:28:14,294 [INFO] Razorpay: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:28:15,751 [INFO] CRED: static scrape found nothing, trying headless render...
+2026-08-30 02:28:24,089 [WARNING] Failed scraping Apple (India - Software) (https://jobs.apple.com/en-in/search?search=software&location=india): string indices must be integers, not 'str'
+2026-08-30 02:28:24,090 [INFO] Apple (India - Software): 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:28:26,282 [INFO] CRED: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:28:27,674 [INFO] Swiggy: static scrape found nothing, trying headless render...
+2026-08-30 02:28:38,179 [INFO] Swiggy: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:28:54,461 [INFO] Zomato: static scrape found nothing, trying headless render...
+2026-08-30 02:28:55,062 [WARNING] Failed scraping Zomato (https://www.zomato.com/careers): net::ERR_HTTP2_PROTOCOL_ERROR at https://www.zomato.com/careers
+=========================== logs ===========================
+navigating to "https://www.zomato.com/careers", waiting until "domcontentloaded"
+============================================================
+2026-08-30 02:28:55,062 [INFO] Zomato: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:28:56,878 [INFO] Flipkart: static scrape found nothing, trying headless render...
+2026-08-30 02:29:03,586 [INFO] Google (India - Software): 1 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:29:07,795 [INFO] Flipkart: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:29:09,159 [INFO] Myntra: static scrape found nothing, trying headless render...
+2026-08-30 02:29:09,694 [INFO] Microsoft (India - Software): static scrape found nothing, trying headless render...
+2026-08-30 02:29:09,809 [INFO] Playwright routing to https://jobs.careers.microsoft.com/global/en/search?q=software&lc=India...
+2026-08-30 02:29:20,132 [INFO] Myntra: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:29:21,777 [INFO] Paytm: static scrape found nothing, trying headless render...
+2026-08-30 02:29:32,838 [INFO] Paytm: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:29:34,284 [INFO] PhonePe: static scrape found nothing, trying headless render...
+2026-08-30 02:29:44,529 [INFO] PhonePe: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:29:46,265 [INFO] Ola: static scrape found nothing, trying headless render...
+2026-08-30 02:29:48,480 [INFO] Microsoft (India - Software): 7 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:29:51,602 [INFO] Amazon (India - Software): static scrape found nothing, trying headless render...
+2026-08-30 02:29:51,672 [INFO] Playwright routing to https://www.amazon.jobs/en/search?base_query=software&loc_query=India...
+2026-08-30 02:29:56,575 [INFO] Ola: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:29:57,993 [INFO] Meesho: static scrape found nothing, trying headless render...
+2026-08-30 02:30:08,346 [INFO] Meesho: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:30:10,083 [INFO] Urban Company: static scrape found nothing, trying headless render...
+2026-08-30 02:30:20,773 [INFO] Urban Company: 1 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:30:23,402 [INFO] InMobi: static scrape found nothing, trying headless render...
+2026-08-30 02:30:26,514 [INFO] Amazon (India - Software): 7 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:30:29,913 [INFO] Apple (India - Software): static scrape found nothing, trying headless render...
+2026-08-30 02:30:29,986 [INFO] Playwright routing to https://jobs.apple.com/en-in/search?search=software&location=india...
+2026-08-30 02:30:36,522 [INFO] InMobi: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:30:40,315 [INFO] Innovaccer: static scrape found nothing, trying headless render...
+2026-08-30 02:30:52,007 [INFO] Innovaccer: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:30:55,495 [INFO] Druva: static scrape found nothing, trying headless render...
+2026-08-30 02:30:57,988 [INFO] Apple (India - Software): 14 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:31:01,204 [INFO] Meta (India - Software): static scrape found nothing, trying headless render...
+2026-08-30 02:31:01,281 [INFO] Playwright routing to https://www.metacareers.com/jobs/?q=software&locations[0]=India...
+2026-08-30 02:31:06,988 [INFO] Druva: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:31:08,631 [INFO] CleverTap: 1 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:31:10,282 [INFO] Whatfix: static scrape found nothing, trying headless render...
+2026-08-30 02:31:21,425 [INFO] Meta (India - Software): 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:31:22,363 [INFO] Whatfix: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:31:24,002 [INFO] Netflix (India - Software): static scrape found nothing, trying headless render...
+2026-08-30 02:31:24,078 [INFO] Playwright routing to https://jobs.netflix.com/search?q=software&location=India...
+2026-08-30 02:31:27,809 [INFO] Darwinbox: static scrape found nothing, trying headless render...
+2026-08-30 02:31:41,759 [INFO] Darwinbox: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:31:43,046 [INFO] Groww: static scrape found nothing, trying headless render...
+2026-08-30 02:31:53,669 [INFO] Groww: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:31:55,857 [INFO] Dream Sports (Dream11): static scrape found nothing, trying headless render...
+2026-08-30 02:32:06,640 [INFO] Dream Sports (Dream11): 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:32:08,752 [INFO] Nykaa: static scrape found nothing, trying headless render...
+2026-08-30 02:32:09,041 [WARNING] Failed scraping Nykaa (https://www.nykaa.com/careers): net::ERR_HTTP2_PROTOCOL_ERROR at https://www.nykaa.com/careers
+=========================== logs ===========================
+navigating to "https://www.nykaa.com/careers", waiting until "domcontentloaded"
+============================================================
+2026-08-30 02:32:09,042 [INFO] Nykaa: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:32:10,779 [INFO] Lenskart: static scrape found nothing, trying headless render...
+2026-08-30 02:32:21,507 [INFO] Lenskart: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:32:37,647 [INFO] PolicyBazaar: static scrape found nothing, trying headless render...
+2026-08-30 02:32:37,936 [WARNING] Failed scraping PolicyBazaar (https://www.policybazaar.com/careers/): net::ERR_HTTP2_PROTOCOL_ERROR at https://www.policybazaar.com/careers/
+=========================== logs ===========================
+navigating to "https://www.policybazaar.com/careers/", waiting until "domcontentloaded"
+============================================================
+2026-08-30 02:32:37,936 [INFO] PolicyBazaar: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:32:39,446 [INFO] Delhivery: static scrape found nothing, trying headless render...
+2026-08-30 02:32:50,083 [INFO] Delhivery: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:32:51,614 [INFO] Porter: static scrape found nothing, trying headless render...
+2026-08-30 02:33:01,969 [INFO] Porter: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:33:03,949 [INFO] BigBasket: static scrape found nothing, trying headless render...
+2026-08-30 02:33:13,988 [INFO] BigBasket: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:33:15,355 [INFO] upGrad: 8 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:33:16,784 [INFO] Physics Wallah: static scrape found nothing, trying headless render...
+2026-08-30 02:33:22,384 [WARNING] socket.send() raised exception.
+2026-08-30 02:33:22,498 [ERROR] Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+2026-08-30 02:33:22,499 [ERROR] Task was destroyed but it is pending!
+task: <Task cancelling name='Task-176' coro=<Page.wait_for_timeout() done, defined at C:\Users\vinee_b4bf8g7\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_page.py:1141> wait_for=<Future finished result=None> cb=[SyncBase._sync.<locals>.<lambda>() at C:\Users\vinee_b4bf8g7\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_sync_base.py:111]>
+2026-08-30 02:33:22,499 [ERROR] Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+2026-08-30 02:33:22,499 [ERROR] Task was destroyed but it is pending!
+task: <Task cancelling name='Task-178' coro=<Browser.close() done, defined at C:\Users\vinee_b4bf8g7\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_browser.py:235> wait_for=<Future finished result=None> cb=[SyncBase._sync.<locals>.<lambda>() at C:\Users\vinee_b4bf8g7\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_sync_base.py:111]>
+2026-08-30 02:33:22,499 [ERROR] Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+2026-08-30 02:33:22,500 [ERROR] Task was destroyed but it is pending!
+task: <Task cancelling name='Task-177' coro=<BrowserContext.close() running at C:\Users\vinee_b4bf8g7\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_browser_context.py:581> wait_for=<Future finished result=None> cb=[SyncBase._sync.<locals>.<lambda>() at C:\Users\vinee_b4bf8g7\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_sync_base.py:111]>
+2026-08-30 02:33:26,931 [INFO] Physics Wallah: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:33:28,377 [INFO] Accenture: 2 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:33:29,721 [INFO] Infosys: static scrape found nothing, trying headless render...
+2026-08-30 02:33:29,928 [INFO] Google (India - Software): 1 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:33:35,788 [INFO] Microsoft (India - Software): static scrape found nothing, trying headless render...
+2026-08-30 02:33:35,880 [INFO] Playwright routing to https://jobs.careers.microsoft.com/global/en/search?q=software&lc=India...
+2026-08-30 02:33:39,608 [INFO] Infosys: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:33:40,827 [INFO] Tata Consultancy Services (TCS): static scrape found nothing, trying headless render...
+2026-08-30 02:33:50,676 [INFO] Tata Consultancy Services (TCS): 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:33:54,474 [INFO] Wipro: static scrape found nothing, trying headless render...
+2026-08-30 02:34:07,763 [INFO] Wipro: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:34:09,200 [INFO] Cognizant: static scrape found nothing, trying headless render...
+2026-08-30 02:34:14,038 [INFO] Microsoft (India - Software): 7 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:34:17,048 [INFO] Amazon (India - Software): static scrape found nothing, trying headless render...
+2026-08-30 02:34:17,126 [INFO] Playwright routing to https://www.amazon.jobs/en/search?base_query=software&loc_query=India...
+2026-08-30 02:34:21,376 [INFO] Cognizant: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:34:23,245 [INFO] Capgemini: 3 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:34:39,511 [INFO] HCLTech: static scrape found nothing, trying headless render...
+2026-08-30 02:34:39,856 [WARNING] Failed scraping HCLTech (https://www.hcltech.com/careers): net::ERR_HTTP2_PROTOCOL_ERROR at https://www.hcltech.com/careers
+=========================== logs ===========================
+navigating to "https://www.hcltech.com/careers", waiting until "domcontentloaded"
+============================================================
+2026-08-30 02:34:39,856 [INFO] HCLTech: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:34:41,899 [INFO] Tech Mahindra: static scrape found nothing, trying headless render...
+2026-08-30 02:34:51,811 [INFO] Amazon (India - Software): 7 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:34:53,217 [INFO] Tech Mahindra: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:34:55,062 [INFO] Apple (India - Software): static scrape found nothing, trying headless render...
+2026-08-30 02:34:55,131 [INFO] Playwright routing to https://jobs.apple.com/en-in/search?search=software&location=india...
+2026-08-30 02:34:56,604 [INFO] Deloitte Digital: static scrape found nothing, trying headless render...
+2026-08-30 02:35:07,741 [INFO] Deloitte Digital: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:35:09,126 [INFO] EPAM Systems: static scrape found nothing, trying headless render...
+2026-08-30 02:35:15,026 [INFO] Apple (India - Software): 14 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:35:19,264 [INFO] EPAM Systems: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:35:20,772 [INFO] Globant: static scrape found nothing, trying headless render...
+2026-08-30 02:35:30,865 [INFO] Globant: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:35:32,275 [INFO] Thoughtworks: static scrape found nothing, trying headless render...
+2026-08-30 02:35:43,785 [INFO] Thoughtworks: 1 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:35:48,218 [INFO] Rivian: static scrape found nothing, trying headless render...
+2026-08-30 02:35:59,901 [INFO] Rivian: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:36:02,827 [INFO] Lucid Motors: static scrape found nothing, trying headless render...
+2026-08-30 02:36:14,253 [INFO] Lucid Motors: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:36:17,942 [INFO] Waymo: 2 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:36:21,023 [INFO] Zoox: static scrape found nothing, trying headless render...
+2026-08-30 02:36:32,609 [INFO] Zoox: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:36:34,330 [INFO] Anduril Industries: static scrape found nothing, trying headless render...
+2026-08-30 02:36:44,902 [INFO] Anduril Industries: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:36:47,680 [INFO] AT&T: static scrape found nothing, trying headless render...
+2026-08-30 02:37:01,112 [INFO] AT&T: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:37:04,084 [INFO] Verizon: static scrape found nothing, trying headless render...
+2026-08-30 02:37:14,752 [INFO] Verizon: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:37:16,163 [INFO] T-Mobile: static scrape found nothing, trying headless render...
+2026-08-30 02:37:29,439 [INFO] T-Mobile: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:37:33,571 [INFO] Adyen: static scrape found nothing, trying headless render...
+2026-08-30 02:37:45,496 [INFO] Adyen: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:37:48,235 [INFO] Wise: static scrape found nothing, trying headless render...
+2026-08-30 02:37:59,489 [INFO] Wise: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:38:01,248 [INFO] Revolut: static scrape found nothing, trying headless render...
+2026-08-30 02:38:12,474 [INFO] Revolut: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:38:14,184 [INFO] Klarna: static scrape found nothing, trying headless render...
+2026-08-30 02:38:25,543 [INFO] Klarna: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:38:28,181 [INFO] N26: 5 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:38:30,038 [INFO] Nubank: static scrape found nothing, trying headless render...
+2026-08-30 02:38:40,319 [INFO] Nubank: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:38:41,607 [INFO] xAI: static scrape found nothing, trying headless render...
+2026-08-30 02:38:52,457 [INFO] xAI: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:38:54,489 [INFO] Stability AI: static scrape found nothing, trying headless render...
+2026-08-30 02:39:07,653 [INFO] Stability AI: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:39:09,234 [INFO] Inflection AI: static scrape found nothing, trying headless render...
+2026-08-30 02:39:20,031 [INFO] Inflection AI: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:39:21,364 [INFO] Adept AI: static scrape found nothing, trying headless render...
+2026-08-30 02:39:31,429 [INFO] Adept AI: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:39:33,549 [INFO] Netlify: 1 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:39:36,014 [INFO] Celonis: static scrape found nothing, trying headless render...
+2026-08-30 02:39:46,734 [INFO] Celonis: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:39:48,469 [INFO] Anaplan: 3 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:39:50,644 [INFO] Workato: static scrape found nothing, trying headless render...
+2026-08-30 02:40:03,086 [INFO] Workato: 0 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:40:03,305 [INFO] Total new matches this run: 25 (experience filter dropped 92 across all companies)
+2026-08-30 02:40:07,920 [INFO] Email digest sent.
+2026-08-30 02:41:12,822 [INFO] Google (India - Software): 1 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:41:19,284 [INFO] Microsoft (India - Software): static scrape found nothing, trying headless render...
+2026-08-30 02:41:19,373 [INFO] Playwright routing to https://jobs.careers.microsoft.com/global/en/search?q=software&lc=India...
+2026-08-30 02:41:47,757 [WARNING] socket.send() raised exception.
+2026-08-30 02:41:47,820 [ERROR] Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+2026-08-30 02:41:47,821 [ERROR] Task was destroyed but it is pending!
+task: <Task cancelling name='Task-14' coro=<Page.wait_for_timeout() done, defined at C:\Users\vinee_b4bf8g7\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_page.py:1141> wait_for=<Future finished result=None> cb=[SyncBase._sync.<locals>.<lambda>() at C:\Users\vinee_b4bf8g7\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_sync_base.py:111]>
+2026-08-30 02:41:47,821 [ERROR] Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+2026-08-30 02:41:47,821 [ERROR] Task was destroyed but it is pending!
+task: <Task cancelling name='Task-16' coro=<Browser.close() done, defined at C:\Users\vinee_b4bf8g7\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_browser.py:235> wait_for=<Future finished result=None> cb=[SyncBase._sync.<locals>.<lambda>() at C:\Users\vinee_b4bf8g7\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_sync_base.py:111]>
+2026-08-30 02:41:47,821 [ERROR] Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+2026-08-30 02:41:47,822 [ERROR] Task was destroyed but it is pending!
+task: <Task cancelling name='Task-15' coro=<BrowserContext.close() running at C:\Users\vinee_b4bf8g7\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_browser_context.py:581> wait_for=<Future finished result=None> cb=[SyncBase._sync.<locals>.<lambda>() at C:\Users\vinee_b4bf8g7\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_sync_base.py:111]>
+2026-08-30 02:41:53,787 [INFO] Google (India - Software): 1 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:41:59,265 [INFO] Microsoft (India - Software): static scrape found nothing, trying headless render...
+2026-08-30 02:41:59,349 [INFO] Playwright routing to https://jobs.careers.microsoft.com/global/en/search?q=software&lc=India...
+2026-08-30 02:42:37,214 [INFO] Microsoft (India - Software): 7 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:42:40,177 [INFO] Amazon (India - Software): static scrape found nothing, trying headless render...
+2026-08-30 02:42:40,254 [INFO] Playwright routing to https://www.amazon.jobs/en/search?base_query=software&loc_query=India...
+2026-08-30 02:43:17,678 [INFO] Amazon (India - Software): 7 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:43:20,992 [INFO] Apple (India - Software): static scrape found nothing, trying headless render...
+2026-08-30 02:43:21,052 [INFO] Playwright routing to https://jobs.apple.com/en-in/search?search=software&location=india...
+2026-08-30 02:43:41,337 [INFO] Apple (India - Software): 14 matching posting(s) (dropped 0 for exceeding 1 yr experience cap)
+2026-08-30 02:43:42,604 [INFO] Total new matches this run: 29 (experience filter dropped 0 across all companies)
+2026-08-30 02:43:47,151 [INFO] Email digest sent.

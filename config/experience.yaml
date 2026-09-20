@@ -1,0 +1,7 @@
+# Postings whose description states a minimum experience requirement above
+# max_years are dropped. Postings that don't state a number at all are
+# always kept and flagged "YOE not stated" in the email — most genuine
+# entry-level roles never mention a figure, so hard-dropping those would
+# silently cut out real matches.
+min_years: 0
+max_years: 1

@@ -1,0 +1,67 @@
+# # Rename this file to companies.yaml and fill in your 100+ companies.
+# #
+# # `type` is optional. If you omit it, the scraper auto-detects from the URL
+# # (works for Greenhouse / Lever / SmartRecruiters / Ashby boards). For a
+# # custom career page on the company's own domain, set type: generic.
+# #
+# # type options: greenhouse | lever | smartrecruiters | ashby | generic
+# #
+# # How to find the right URL for each type:
+# #   greenhouse       -> boards.greenhouse.io/<company>
+# #   lever            -> jobs.lever.co/<company>
+# #   smartrecruiters  -> jobs.smartrecruiters.com/<company>
+# #   ashby            -> jobs.ashbyhq.com/<company>
+# #   generic          -> the company's own /careers page
+
+# companies:
+#   - name: "Example Corp"
+#     url: "https://boards.greenhouse.io/examplecorp"
+#     type: greenhouse
+
+#   - name: "Some Startup"
+#     url: "https://jobs.lever.co/somestartup"
+#     type: lever
+
+#   - name: "Custom Co"
+#     url: "https://custom-co.com/careers"
+#     type: generic
+
+
+# companies.yaml
+# 300+ real companies that regularly hire Software Engineers, AI/ML Engineers,
+# and Full-Stack Developers, in the format expected by the scraper.
+#
+# NOTES ON ACCURACY (please read before running at scale):
+# - Every company below is real and, to the best of available information,
+#   currently hires for software/AI/full-stack roles.
+# - For companies confirmed to run their job board on Greenhouse (a widely
+#   documented/public fact), I've set type: greenhouse with the standard
+#   boards.greenhouse.io/<slug> URL.
+# - For every other company, I used type: generic pointing at the company's
+#   actual public careers/jobs page. This is deliberately the safer choice:
+#   the exact underlying ATS (Lever, Ashby, SmartRecruiters, Workday, custom)
+#   changes over time and I can't verify 300 individual ATS slugs live, but
+#   the careers URL itself is genuine and stable.
+# - ATS providers and slugs DO change (M&A, migrations, rebrands). Before a
+#   large scraping run, spot-check a handful of entries per type, especially
+#   the "generic" ones, since your scraper may need per-domain parsing rules
+#   for those.
+
+companies:
+
+  - name: "Google (India - Software)"
+    url: "https://careers.google.com/jobs/results/?location=India&q=software"
+    type: generic
+  
+  - name: "Microsoft (India - Software)"
+    url: "https://jobs.careers.microsoft.com/global/en/search?q=software&lc=India"
+    type: generic
+
+  - name: "Amazon (India - Software)"
+    url: "https://www.amazon.jobs/en/search?base_query=software&loc_query=India"
+    type: generic
+
+  - name: "Apple (India - Software)"
+    url: "https://jobs.apple.com/en-in/search?search=software&location=india"
+    type: generic
+

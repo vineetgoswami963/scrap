@@ -1,0 +1,1009 @@
+# # Rename this file to companies.yaml and fill in your 100+ companies.
+# #
+# # `type` is optional. If you omit it, the scraper auto-detects from the URL
+# # (works for Greenhouse / Lever / SmartRecruiters / Ashby boards). For a
+# # custom career page on the company's own domain, set type: generic.
+# #
+# # type options: greenhouse | lever | smartrecruiters | ashby | generic
+# #
+# # How to find the right URL for each type:
+# #   greenhouse       -> boards.greenhouse.io/<company>
+# #   lever            -> jobs.lever.co/<company>
+# #   smartrecruiters  -> jobs.smartrecruiters.com/<company>
+# #   ashby            -> jobs.ashbyhq.com/<company>
+# #   generic          -> the company's own /careers page
+
+# companies:
+#   - name: "Example Corp"
+#     url: "https://boards.greenhouse.io/examplecorp"
+#     type: greenhouse
+
+#   - name: "Some Startup"
+#     url: "https://jobs.lever.co/somestartup"
+#     type: lever
+
+#   - name: "Custom Co"
+#     url: "https://custom-co.com/careers"
+#     type: generic
+
+
+# companies.yaml
+# 300+ real companies that regularly hire Software Engineers, AI/ML Engineers,
+# and Full-Stack Developers, in the format expected by the scraper.
+#
+# NOTES ON ACCURACY (please read before running at scale):
+# - Every company below is real and, to the best of available information,
+#   currently hires for software/AI/full-stack roles.
+# - For companies confirmed to run their job board on Greenhouse (a widely
+#   documented/public fact), I've set type: greenhouse with the standard
+#   boards.greenhouse.io/<slug> URL.
+# - For every other company, I used type: generic pointing at the company's
+#   actual public careers/jobs page. This is deliberately the safer choice:
+#   the exact underlying ATS (Lever, Ashby, SmartRecruiters, Workday, custom)
+#   changes over time and I can't verify 300 individual ATS slugs live, but
+#   the careers URL itself is genuine and stable.
+# - ATS providers and slugs DO change (M&A, migrations, rebrands). Before a
+#   large scraping run, spot-check a handful of entries per type, especially
+#   the "generic" ones, since your scraper may need per-domain parsing rules
+#   for those.
+
+companies:
+
+  # ── Big Tech / Cloud Platforms ──────────────────────────────────────────
+  - name: "Google"
+    url: "https://careers.google.com/jobs/results/?location=India&q=software"
+    type: generic
+
+  - name: "Microsoft"
+    url: "https://jobs.careers.microsoft.com/global/en/search?q=software&l=India"
+    type: generic
+
+  - name: "Amazon"
+    url: "https://www.amazon.jobs/en/search?base_query=software&loc_query=India"
+    type: generic
+
+  - name: "Apple"
+    url: "https://jobs.apple.com/en-in/search?search=software&location=india"
+    type: generic
+
+  - name: "Meta"
+    url: "https://www.metacareers.com/jobs/?q=software&locations[0]=India"
+    type: generic
+
+  - name: "Netflix"
+    url: "https://jobs.netflix.com"
+    type: generic
+  - name: "Oracle"
+    url: "https://www.oracle.com/careers/"
+    type: generic
+  - name: "SAP"
+    url: "https://jobs.sap.com"
+    type: generic
+  - name: "IBM"
+    url: "https://www.ibm.com/careers"
+    type: generic
+  - name: "Salesforce"
+    url: "https://careers.salesforce.com"
+    type: generic
+  - name: "Adobe"
+    url: "https://careers.adobe.com"
+    type: generic
+  - name: "Cisco"
+    url: "https://jobs.cisco.com"
+    type: generic
+  - name: "VMware (Broadcom)"
+    url: "https://careers.broadcom.com"
+    type: generic
+  - name: "ServiceNow"
+    url: "https://careers.servicenow.com"
+    type: generic
+  - name: "Workday"
+    url: "https://workday.wd5.myworkdayjobs.com/Workday"
+    type: generic
+  - name: "Intuit"
+    url: "https://www.intuit.com/careers/"
+    type: generic
+  - name: "PayPal"
+    url: "https://careers.pypl.com"
+    type: generic
+  - name: "Block"
+    url: "https://block.xyz/careers"
+    type: generic
+  - name: "Snap Inc"
+    url: "https://careers.snap.com"
+    type: generic
+  - name: "LinkedIn"
+    url: "https://careers.linkedin.com"
+    type: generic
+  - name: "X (Twitter)"
+    url: "https://careers.x.com"
+    type: generic
+  - name: "Zoom"
+    url: "https://careers.zoom.us"
+    type: generic
+  - name: "Atlassian"
+    url: "https://www.atlassian.com/company/careers"
+    type: generic
+  - name: "Slack"
+    url: "https://slack.com/careers"
+    type: generic
+
+  # ── AI Labs & AI Infrastructure ─────────────────────────────────────────
+  - name: "Anthropic"
+    url: "https://boards.greenhouse.io/anthropic"
+    type: greenhouse
+  - name: "OpenAI"
+    url: "https://openai.com/careers/"
+    type: generic
+  - name: "Scale AI"
+    url: "https://scale.com/careers"
+    type: generic
+  - name: "Hugging Face"
+    url: "https://huggingface.co/careers"
+    type: generic
+  - name: "Cohere"
+    url: "https://cohere.com/careers"
+    type: generic
+  - name: "Mistral AI"
+    url: "https://mistral.ai/careers"
+    type: generic
+  - name: "Perplexity AI"
+    url: "https://www.perplexity.ai/careers"
+    type: generic
+  - name: "Runway"
+    url: "https://runwayml.com/careers/"
+    type: generic
+  - name: "Character.AI"
+    url: "https://character.ai/careers"
+    type: generic
+  - name: "Together AI"
+    url: "https://www.together.ai/careers"
+    type: generic
+  - name: "Weights & Biases"
+    url: "https://wandb.ai/site/careers"
+    type: generic
+  - name: "Pinecone"
+    url: "https://www.pinecone.io/careers/"
+    type: generic
+  - name: "Modal"
+    url: "https://modal.com/careers"
+    type: generic
+  - name: "LangChain"
+    url: "https://www.langchain.com/careers"
+    type: generic
+  - name: "Replit"
+    url: "https://replit.com/careers"
+    type: generic
+  - name: "Supabase"
+    url: "https://supabase.com/careers"
+    type: generic
+  - name: "Neon"
+    url: "https://neon.tech/careers"
+    type: generic
+  - name: "PlanetScale"
+    url: "https://planetscale.com/careers"
+    type: generic
+
+  # ── Fintech ──────────────────────────────────────────────────────────────
+  - name: "Stripe"
+    url: "https://boards.greenhouse.io/stripe"
+    type: greenhouse
+  - name: "Coinbase"
+    url: "https://boards.greenhouse.io/coinbase"
+    type: greenhouse
+  - name: "Robinhood"
+    url: "https://boards.greenhouse.io/robinhood"
+    type: greenhouse
+  - name: "Plaid"
+    url: "https://boards.greenhouse.io/plaid"
+    type: greenhouse
+  - name: "Brex"
+    url: "https://boards.greenhouse.io/brex"
+    type: greenhouse
+  - name: "Ramp"
+    url: "https://boards.greenhouse.io/ramp"
+    type: greenhouse
+  - name: "Chime"
+    url: "https://boards.greenhouse.io/chime"
+    type: greenhouse
+  - name: "Affirm"
+    url: "https://boards.greenhouse.io/affirm"
+    type: greenhouse
+  - name: "Carta"
+    url: "https://boards.greenhouse.io/carta"
+    type: greenhouse
+  - name: "Gusto"
+    url: "https://boards.greenhouse.io/gusto"
+    type: greenhouse
+  - name: "Remote"
+    url: "https://remote.com/careers"
+    type: generic
+  - name: "Deel"
+    url: "https://www.deel.com/careers"
+    type: generic
+  - name: "Rippling"
+    url: "https://www.rippling.com/careers"
+    type: generic
+  - name: "Kraken"
+    url: "https://www.kraken.com/careers"
+    type: generic
+  - name: "Gemini"
+    url: "https://www.gemini.com/careers"
+    type: generic
+  - name: "Circle"
+    url: "https://www.circle.com/careers"
+    type: generic
+  - name: "Ripple"
+    url: "https://ripple.com/careers/"
+    type: generic
+  - name: "Visa"
+    url: "https://corporate.visa.com/en/jobs.html"
+    type: generic
+  - name: "Mastercard"
+    url: "https://careers.mastercard.com"
+    type: generic
+  - name: "American Express"
+    url: "https://www.americanexpress.com/en-us/careers/"
+    type: generic
+  - name: "Goldman Sachs"
+    url: "https://www.goldmansachs.com/careers/"
+    type: generic
+  - name: "JPMorgan Chase"
+    url: "https://careers.jpmorgan.com"
+    type: generic
+  - name: "Morgan Stanley"
+    url: "https://www.morganstanley.com/careers"
+    type: generic
+  - name: "Capital One"
+    url: "https://www.capitalonecareers.com"
+    type: generic
+  - name: "Bloomberg"
+    url: "https://careers.bloomberg.com"
+    type: generic
+
+  # ── Cloud Infra / Developer Tools ───────────────────────────────────────
+  - name: "Cloudflare"
+    url: "https://boards.greenhouse.io/cloudflare"
+    type: greenhouse
+  - name: "Vercel"
+    url: "https://boards.greenhouse.io/vercel"
+    type: greenhouse
+  - name: "Twilio"
+    url: "https://boards.greenhouse.io/twilio"
+    type: greenhouse
+  - name: "Datadog"
+    url: "https://boards.greenhouse.io/datadog"
+    type: greenhouse
+  - name: "Snowflake"
+    url: "https://boards.greenhouse.io/snowflake"
+    type: greenhouse
+  - name: "Databricks"
+    url: "https://boards.greenhouse.io/databricks"
+    type: greenhouse
+  - name: "GitLab"
+    url: "https://boards.greenhouse.io/gitlab"
+    type: greenhouse
+  - name: "MongoDB"
+    url: "https://www.mongodb.com/careers"
+    type: generic
+  - name: "Elastic"
+    url: "https://www.elastic.co/careers"
+    type: generic
+  - name: "Confluent"
+    url: "https://careers.confluent.io"
+    type: generic
+  - name: "Docker"
+    url: "https://www.docker.com/careers/"
+    type: generic
+  - name: "HashiCorp"
+    url: "https://www.hashicorp.com/careers"
+    type: generic
+  - name: "JetBrains"
+    url: "https://www.jetbrains.com/careers/"
+    type: generic
+  - name: "GitHub"
+    url: "https://github.com/about/careers"
+    type: generic
+  - name: "Red Hat"
+    url: "https://www.redhat.com/en/jobs"
+    type: generic
+  - name: "Canonical"
+    url: "https://canonical.com/careers"
+    type: generic
+  - name: "Postman"
+    url: "https://www.postman.com/careers/"
+    type: generic
+  - name: "BrowserStack"
+    url: "https://www.browserstack.com/careers"
+    type: generic
+  - name: "Sentry"
+    url: "https://sentry.io/careers/"
+    type: generic
+  - name: "Grafana Labs"
+    url: "https://grafana.com/about/careers/"
+    type: generic
+  - name: "LaunchDarkly"
+    url: "https://launchdarkly.com/careers/"
+    type: generic
+  - name: "Render"
+    url: "https://render.com/careers"
+    type: generic
+  - name: "Fly.io"
+    url: "https://fly.io/jobs"
+    type: generic
+  - name: "Cockroach Labs"
+    url: "https://www.cockroachlabs.com/careers/"
+    type: generic
+  - name: "Redis"
+    url: "https://redis.io/careers/"
+    type: generic
+  - name: "Temporal"
+    url: "https://temporal.io/careers"
+    type: generic
+  - name: "Neo4j"
+    url: "https://neo4j.com/careers/"
+    type: generic
+  - name: "Couchbase"
+    url: "https://www.couchbase.com/careers/"
+    type: generic
+  - name: "DigitalOcean"
+    url: "https://www.digitalocean.com/careers"
+    type: generic
+  - name: "Akamai"
+    url: "https://www.akamai.com/careers"
+    type: generic
+  - name: "Fastly"
+    url: "https://www.fastly.com/about/careers"
+    type: generic
+  - name: "Equinix"
+    url: "https://careers.equinix.com"
+    type: generic
+
+  # ── Productivity / Collaboration / Design ───────────────────────────────
+  - name: "Notion"
+    url: "https://www.notion.so/careers"
+    type: generic
+  - name: "Figma"
+    url: "https://boards.greenhouse.io/figma"
+    type: greenhouse
+  - name: "Airtable"
+    url: "https://boards.greenhouse.io/airtable"
+    type: greenhouse
+  - name: "Miro"
+    url: "https://miro.com/careers/"
+    type: generic
+  - name: "Canva"
+    url: "https://www.canva.com/careers/"
+    type: generic
+  - name: "Asana"
+    url: "https://asana.com/jobs"
+    type: generic
+  - name: "Monday.com"
+    url: "https://monday.com/careers/"
+    type: generic
+  - name: "ClickUp"
+    url: "https://clickup.com/careers"
+    type: generic
+  - name: "Coda"
+    url: "https://coda.io/careers"
+    type: generic
+  - name: "Webflow"
+    url: "https://boards.greenhouse.io/webflow"
+    type: greenhouse
+  - name: "Retool"
+    url: "https://boards.greenhouse.io/retool"
+    type: greenhouse
+  - name: "Linear"
+    url: "https://linear.app/careers"
+    type: generic
+  - name: "Dropbox"
+    url: "https://boards.greenhouse.io/dropbox"
+    type: greenhouse
+  - name: "Box"
+    url: "https://www.box.com/careers"
+    type: generic
+  - name: "Grammarly"
+    url: "https://www.grammarly.com/careers"
+    type: generic
+  - name: "Calendly"
+    url: "https://calendly.com/careers"
+    type: generic
+  - name: "Typeform"
+    url: "https://www.typeform.com/careers/"
+    type: generic
+  - name: "Zapier"
+    url: "https://zapier.com/jobs"
+    type: generic
+
+  # ── Marketing / Data / Analytics SaaS ───────────────────────────────────
+  - name: "HubSpot"
+    url: "https://www.hubspot.com/careers"
+    type: generic
+  - name: "Zendesk"
+    url: "https://www.zendesk.com/careers/"
+    type: generic
+  - name: "Amplitude"
+    url: "https://amplitude.com/careers"
+    type: generic
+  - name: "Mixpanel"
+    url: "https://mixpanel.com/careers/"
+    type: generic
+  - name: "Braze"
+    url: "https://www.braze.com/careers"
+    type: generic
+  - name: "Iterable"
+    url: "https://iterable.com/careers/"
+    type: generic
+  - name: "Klaviyo"
+    url: "https://www.klaviyo.com/careers"
+    type: generic
+  - name: "Statsig"
+    url: "https://www.statsig.com/careers"
+    type: generic
+
+  # ── Security ─────────────────────────────────────────────────────────────
+  - name: "Okta"
+    url: "https://boards.greenhouse.io/okta"
+    type: greenhouse
+  - name: "CrowdStrike"
+    url: "https://www.crowdstrike.com/careers/"
+    type: generic
+  - name: "Palo Alto Networks"
+    url: "https://jobs.paloaltonetworks.com"
+    type: generic
+  - name: "Zscaler"
+    url: "https://www.zscaler.com/careers"
+    type: generic
+  - name: "Fortinet"
+    url: "https://www.fortinet.com/corporate/about-us/careers"
+    type: generic
+  - name: "SentinelOne"
+    url: "https://www.sentinelone.com/careers/"
+    type: generic
+  - name: "Rapid7"
+    url: "https://www.rapid7.com/careers/"
+    type: generic
+  - name: "Tenable"
+    url: "https://www.tenable.com/careers"
+    type: generic
+  - name: "Snyk"
+    url: "https://snyk.io/careers/"
+    type: generic
+  - name: "Wiz"
+    url: "https://www.wiz.io/careers"
+    type: generic
+  - name: "Netskope"
+    url: "https://www.netskope.com/company/careers"
+    type: generic
+  - name: "1Password"
+    url: "https://1password.com/careers/"
+    type: generic
+  - name: "Darktrace"
+    url: "https://darktrace.com/careers"
+    type: generic
+
+  # ── E-commerce / Marketplaces ───────────────────────────────────────────
+  - name: "Shopify"
+    url: "https://www.shopify.com/careers"
+    type: generic
+  - name: "Etsy"
+    url: "https://careers.etsy.com"
+    type: generic
+  - name: "Faire"
+    url: "https://boards.greenhouse.io/faire"
+    type: greenhouse
+  - name: "Whatnot"
+    url: "https://www.whatnot.com/careers"
+    type: generic
+  - name: "StockX"
+    url: "https://stockx.com/careers"
+    type: generic
+  - name: "Poshmark"
+    url: "https://careers.poshmark.com"
+    type: generic
+  - name: "ThredUp"
+    url: "https://www.thredup.com/careers"
+    type: generic
+  - name: "Rent the Runway"
+    url: "https://www.renttherunway.com/careers"
+    type: generic
+  - name: "Wayfair"
+    url: "https://www.aboutwayfair.com/careers"
+    type: generic
+  - name: "Chewy"
+    url: "https://careers.chewy.com"
+    type: generic
+  - name: "BigCommerce"
+    url: "https://www.bigcommerce.com/careers/"
+    type: generic
+  - name: "Squarespace"
+    url: "https://www.squarespace.com/careers"
+    type: generic
+  - name: "Wix"
+    url: "https://www.wix.com/jobs"
+    type: generic
+  - name: "GoDaddy"
+    url: "https://careers.godaddy.com"
+    type: generic
+  - name: "Automattic"
+    url: "https://automattic.com/work-with-us/"
+    type: generic
+
+  # ── Food Delivery / Mobility / Travel ───────────────────────────────────
+  - name: "DoorDash"
+    url: "https://boards.greenhouse.io/doordash"
+    type: greenhouse
+  - name: "Instacart"
+    url: "https://boards.greenhouse.io/instacart"
+    type: greenhouse
+  - name: "Uber"
+    url: "https://boards.greenhouse.io/uber"
+    type: greenhouse
+  - name: "Lyft"
+    url: "https://boards.greenhouse.io/lyft"
+    type: greenhouse
+  - name: "Airbnb"
+    url: "https://boards.greenhouse.io/airbnb"
+    type: greenhouse
+  - name: "Grubhub"
+    url: "https://careers.grubhub.com"
+    type: generic
+  - name: "Gopuff"
+    url: "https://www.gopuff.com/careers"
+    type: generic
+  - name: "Turo"
+    url: "https://turo.com/careers"
+    type: generic
+  - name: "Getaround"
+    url: "https://www.getaround.com/careers"
+    type: generic
+  - name: "Lime"
+    url: "https://www.li.me/careers"
+    type: generic
+  - name: "Booking.com"
+    url: "https://careers.booking.com"
+    type: generic
+  - name: "Expedia Group"
+    url: "https://careers.expediagroup.com"
+    type: generic
+  - name: "TripAdvisor"
+    url: "https://careers.tripadvisor.com"
+    type: generic
+
+  # ── Gaming / Entertainment ──────────────────────────────────────────────
+  - name: "Roblox"
+    url: "https://careers.roblox.com"
+    type: generic
+  - name: "Unity Technologies"
+    url: "https://careers.unity.com"
+    type: generic
+  - name: "Epic Games"
+    url: "https://www.epicgames.com/site/en-US/careers"
+    type: generic
+  - name: "Electronic Arts"
+    url: "https://www.ea.com/careers"
+    type: generic
+  - name: "Activision Blizzard"
+    url: "https://careers.activisionblizzard.com"
+    type: generic
+  - name: "Riot Games"
+    url: "https://www.riotgames.com/en/work-with-us"
+    type: generic
+  - name: "Zynga"
+    url: "https://www.zynga.com/careers/"
+    type: generic
+  - name: "Valve"
+    url: "https://www.valvesoftware.com/en/jobs"
+    type: generic
+  - name: "Niantic"
+    url: "https://nianticlabs.com/careers/"
+    type: generic
+  - name: "Spotify"
+    url: "https://www.lifeatspotify.com"
+    type: generic
+  - name: "SoundCloud"
+    url: "https://careers.soundcloud.com"
+    type: generic
+  - name: "Discord"
+    url: "https://boards.greenhouse.io/discord"
+    type: greenhouse
+  - name: "Twitch"
+    url: "https://www.twitch.tv/jobs"
+    type: generic
+
+  # ── Real Estate / Property Tech ─────────────────────────────────────────
+  - name: "Zillow"
+    url: "https://www.zillow.com/careers/"
+    type: generic
+  - name: "Redfin"
+    url: "https://www.redfin.com/about/jobs"
+    type: generic
+  - name: "Compass"
+    url: "https://www.compass.com/careers/"
+    type: generic
+  - name: "Opendoor"
+    url: "https://www.opendoor.com/careers"
+    type: generic
+  - name: "Procore"
+    url: "https://www.procore.com/careers"
+    type: generic
+  - name: "CoStar Group"
+    url: "https://www.costargroup.com/careers"
+    type: generic
+
+  # ── Healthtech ───────────────────────────────────────────────────────────
+  - name: "Oscar Health"
+    url: "https://www.hioscar.com/careers"
+    type: generic
+  - name: "Ro"
+    url: "https://ro.co/careers/"
+    type: generic
+  - name: "Hims & Hers"
+    url: "https://www.forhims.com/careers"
+    type: generic
+  - name: "Included Health"
+    url: "https://includedhealth.com/careers/"
+    type: generic
+  - name: "Teladoc Health"
+    url: "https://www.teladochealth.com/careers/"
+    type: generic
+  - name: "GoodRx"
+    url: "https://www.goodrx.com/careers"
+    type: generic
+  - name: "Doximity"
+    url: "https://www.doximity.com/careers"
+    type: generic
+  - name: "Tempus"
+    url: "https://www.tempus.com/careers/"
+    type: generic
+  - name: "Flatiron Health"
+    url: "https://flatiron.com/careers/"
+    type: generic
+  - name: "Devoted Health"
+    url: "https://www.devoted.com/careers/"
+    type: generic
+
+  # ── Edtech ───────────────────────────────────────────────────────────────
+  - name: "Coursera"
+    url: "https://www.coursera.org/about/careers"
+    type: generic
+  - name: "Udemy"
+    url: "https://about.udemy.com/careers/"
+    type: generic
+  - name: "Duolingo"
+    url: "https://boards.greenhouse.io/duolingo"
+    type: greenhouse
+  - name: "Chegg"
+    url: "https://www.chegg.com/careers"
+    type: generic
+  - name: "Khan Academy"
+    url: "https://www.khanacademy.org/careers"
+    type: generic
+  - name: "2U"
+    url: "https://2u.com/careers/"
+    type: generic
+
+  # ── Crypto / Web3 (additional) ──────────────────────────────────────────
+  - name: "Chainalysis"
+    url: "https://www.chainalysis.com/careers/"
+    type: generic
+  - name: "Anchorage Digital"
+    url: "https://www.anchorage.com/careers"
+    type: generic
+  - name: "BitGo"
+    url: "https://www.bitgo.com/careers/"
+    type: generic
+  - name: "OpenSea"
+    url: "https://opensea.io/careers"
+    type: generic
+  - name: "Consensys"
+    url: "https://consensys.io/careers/"
+    type: generic
+
+  # ── Logistics / Supply Chain ────────────────────────────────────────────
+  - name: "Flexport"
+    url: "https://www.flexport.com/careers/"
+    type: generic
+  - name: "Samsara"
+    url: "https://boards.greenhouse.io/samsara"
+    type: greenhouse
+  - name: "project44"
+    url: "https://www.project44.com/careers"
+    type: generic
+  - name: "FourKites"
+    url: "https://www.fourkites.com/careers"
+    type: generic
+
+  # ── Hardware / Semiconductors ───────────────────────────────────────────
+  - name: "NVIDIA"
+    url: "https://www.nvidia.com/en-us/about-nvidia/careers/"
+    type: generic
+  - name: "AMD"
+    url: "https://careers.amd.com"
+    type: generic
+  - name: "Intel"
+    url: "https://jobs.intel.com"
+    type: generic
+  - name: "Qualcomm"
+    url: "https://www.qualcomm.com/company/careers"
+    type: generic
+  - name: "Texas Instruments"
+    url: "https://careers.ti.com"
+    type: generic
+  - name: "Micron Technology"
+    url: "https://micron.com/careers"
+    type: generic
+  - name: "Western Digital"
+    url: "https://www.westerndigital.com/careers"
+    type: generic
+  - name: "Seagate Technology"
+    url: "https://www.seagate.com/careers/"
+    type: generic
+  - name: "Arista Networks"
+    url: "https://www.arista.com/en/company/careers"
+    type: generic
+  - name: "Juniper Networks"
+    url: "https://careers.juniper.net"
+    type: generic
+  - name: "Tesla"
+    url: "https://www.tesla.com/careers"
+    type: generic
+  - name: "SpaceX"
+    url: "https://www.spacex.com/careers/"
+    type: generic
+
+  # ── Enterprise Software ─────────────────────────────────────────────────
+  - name: "Workiva"
+    url: "https://www.workiva.com/careers"
+    type: generic
+  - name: "Smartsheet"
+    url: "https://www.smartsheet.com/careers"
+    type: generic
+  - name: "UiPath"
+    url: "https://www.uipath.com/careers"
+    type: generic
+  - name: "Automation Anywhere"
+    url: "https://www.automationanywhere.com/company/careers"
+    type: generic
+  - name: "Blue Yonder"
+    url: "https://blueyonder.com/careers"
+    type: generic
+  - name: "Qualtrics"
+    url: "https://www.qualtrics.com/careers/"
+    type: generic
+  - name: "C3.ai"
+    url: "https://c3.ai/careers/"
+    type: generic
+  - name: "Nutanix"
+    url: "https://www.nutanix.com/careers"
+    type: generic
+  - name: "Pure Storage"
+    url: "https://www.purestorage.com/careers.html"
+    type: generic
+  - name: "Splunk"
+    url: "https://www.splunk.com/en_us/careers.html"
+    type: generic
+  - name: "Cloudera"
+    url: "https://www.cloudera.com/careers.html"
+    type: generic
+  - name: "PagerDuty"
+    url: "https://www.pagerduty.com/careers/"
+    type: generic
+  - name: "New Relic"
+    url: "https://newrelic.com/about/careers"
+    type: generic
+  - name: "Toast"
+    url: "https://careers.toasttab.com"
+    type: generic
+  - name: "DocuSign"
+    url: "https://www.docusign.com/company/careers"
+    type: generic
+  - name: "Palantir Technologies"
+    url: "https://www.palantir.com/careers/"
+    type: generic
+
+  # ── India-based Tech ─────────────────────────────────────────────────────
+  - name: "Freshworks"
+    url: "https://www.freshworks.com/company/careers/"
+    type: generic
+  - name: "Zoho"
+    url: "https://www.zoho.com/careers.html"
+    type: generic
+  - name: "Chargebee"
+    url: "https://www.chargebee.com/careers/"
+    type: generic
+  - name: "Razorpay"
+    url: "https://razorpay.com/jobs/"
+    type: generic
+  - name: "CRED"
+    url: "https://careers.cred.club"
+    type: generic
+  - name: "Swiggy"
+    url: "https://careers.swiggy.com"
+    type: generic
+  - name: "Zomato"
+    url: "https://www.zomato.com/careers"
+    type: generic
+  - name: "Flipkart"
+    url: "https://www.flipkartcareers.com"
+    type: generic
+  - name: "Myntra"
+    url: "https://careers.myntra.com"
+    type: generic
+  - name: "Paytm"
+    url: "https://paytm.com/careers"
+    type: generic
+  - name: "PhonePe"
+    url: "https://www.phonepe.com/careers/"
+    type: generic
+  - name: "Ola"
+    url: "https://www.olacabs.com/careers"
+    type: generic
+  - name: "Meesho"
+    url: "https://www.meesho.io/careers"
+    type: generic
+  - name: "Urban Company"
+    url: "https://www.urbancompany.com/careers"
+    type: generic
+  - name: "InMobi"
+    url: "https://www.inmobi.com/careers"
+    type: generic
+  - name: "Innovaccer"
+    url: "https://innovaccer.com/careers"
+    type: generic
+  - name: "Druva"
+    url: "https://www.druva.com/careers/"
+    type: generic
+  - name: "CleverTap"
+    url: "https://clevertap.com/careers/"
+    type: generic
+  - name: "Whatfix"
+    url: "https://whatfix.com/careers/"
+    type: generic
+  - name: "Darwinbox"
+    url: "https://darwinbox.com/careers"
+    type: generic
+  - name: "Groww"
+    url: "https://groww.in/careers"
+    type: generic
+  - name: "Dream Sports (Dream11)"
+    url: "https://dreamsports.group/careers/"
+    type: generic
+  - name: "Nykaa"
+    url: "https://www.nykaa.com/careers"
+    type: generic
+  - name: "Lenskart"
+    url: "https://www.lenskart.com/careers.html"
+    type: generic
+  - name: "PolicyBazaar"
+    url: "https://www.policybazaar.com/careers/"
+    type: generic
+  - name: "Delhivery"
+    url: "https://www.delhivery.com/careers/"
+    type: generic
+  - name: "Porter"
+    url: "https://porter.in/careers"
+    type: generic
+  - name: "BigBasket"
+    url: "https://www.bigbasket.com/careers/"
+    type: generic
+  - name: "upGrad"
+    url: "https://www.upgrad.com/careers/"
+    type: generic
+  - name: "Physics Wallah"
+    url: "https://www.pw.live/careers"
+    type: generic
+
+  # ── Global IT Services / Consulting ─────────────────────────────────────
+  - name: "Accenture"
+    url: "https://www.accenture.com/us-en/careers"
+    type: generic
+  - name: "Infosys"
+    url: "https://www.infosys.com/careers.html"
+    type: generic
+  - name: "Tata Consultancy Services (TCS)"
+    url: "https://www.tcs.com/careers"
+    type: generic
+  - name: "Wipro"
+    url: "https://careers.wipro.com"
+    type: generic
+  - name: "Cognizant"
+    url: "https://careers.cognizant.com"
+    type: generic
+  - name: "Capgemini"
+    url: "https://www.capgemini.com/careers/"
+    type: generic
+  - name: "HCLTech"
+    url: "https://www.hcltech.com/careers"
+    type: generic
+  - name: "Tech Mahindra"
+    url: "https://careers.techmahindra.com"
+    type: generic
+  - name: "Deloitte Digital"
+    url: "https://www2.deloitte.com/us/en/careers/careers.html"
+    type: generic
+  - name: "EPAM Systems"
+    url: "https://www.epam.com/careers"
+    type: generic
+  - name: "Globant"
+    url: "https://www.globant.com/careers"
+    type: generic
+  - name: "Thoughtworks"
+    url: "https://www.thoughtworks.com/careers"
+    type: generic
+
+  # ── EV / Autonomous / Aerospace Software ────────────────────────────────
+  - name: "Rivian"
+    url: "https://rivian.com/careers"
+    type: generic
+  - name: "Lucid Motors"
+    url: "https://www.lucidmotors.com/careers"
+    type: generic
+  - name: "Waymo"
+    url: "https://waymo.com/careers/"
+    type: generic
+  - name: "Zoox"
+    url: "https://zoox.com/careers/"
+    type: generic
+  - name: "Anduril Industries"
+    url: "https://www.anduril.com/careers/"
+    type: generic
+
+  # ── Telecom ──────────────────────────────────────────────────────────────
+  - name: "AT&T"
+    url: "https://www.att.jobs"
+    type: generic
+  - name: "Verizon"
+    url: "https://www.verizon.com/about/careers"
+    type: generic
+  - name: "T-Mobile"
+    url: "https://careers.t-mobile.com"
+    type: generic
+
+  # ── More Fintech (Global) ───────────────────────────────────────────────
+  - name: "Adyen"
+    url: "https://www.adyen.com/careers"
+    type: generic
+  - name: "Wise"
+    url: "https://wise.jobs"
+    type: generic
+  - name: "Revolut"
+    url: "https://www.revolut.com/careers/"
+    type: generic
+  - name: "Klarna"
+    url: "https://www.klarna.com/careers/"
+    type: generic
+  - name: "N26"
+    url: "https://n26.com/en/careers"
+    type: generic
+  - name: "Nubank"
+    url: "https://nubank.com.br/en/careers/"
+    type: generic
+
+  # ── More AI ──────────────────────────────────────────────────────────────
+  - name: "xAI"
+    url: "https://x.ai/careers"
+    type: generic
+  - name: "Stability AI"
+    url: "https://stability.ai/careers"
+    type: generic
+  - name: "Inflection AI"
+    url: "https://inflection.ai/careers"
+    type: generic
+  - name: "Adept AI"
+    url: "https://www.adept.ai/careers"
+    type: generic
+
+  # ── More Dev Tools / SaaS ───────────────────────────────────────────────
+  - name: "Netlify"
+    url: "https://www.netlify.com/careers/"
+    type: generic
+  - name: "Celonis"
+    url: "https://www.celonis.com/careers/"
+    type: generic
+  - name: "Anaplan"
+    url: "https://www.anaplan.com/careers/"
+    type: generic
+  - name: "Workato"
+    url: "https://www.workato.com/careers/"
+    type: generic
